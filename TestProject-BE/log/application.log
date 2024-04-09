@@ -1,0 +1,841 @@
+2024-04-03 19:34:09.751 [main] INFO  com.example.myapp.MyAppApplication - Starting MyAppApplication using Java 20 with PID 1572 (C:\Users\Korisnik\Desktop\my-app\target\classes started by Korisnik in C:\Users\Korisnik\Desktop\my-app)
+2024-04-03 19:34:09.756 [main] INFO  com.example.myapp.MyAppApplication - No active profile set, falling back to 1 default profile: "default"
+2024-04-03 19:34:12.301 [main] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat initialized with port 8080 (http)
+2024-04-03 19:34:12.333 [main] INFO  o.a.catalina.core.StandardService - Starting service [Tomcat]
+2024-04-03 19:34:12.335 [main] INFO  o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/10.1.19]
+2024-04-03 19:34:12.473 [main] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2024-04-03 19:34:12.474 [main] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 2619 ms
+2024-04-03 19:34:12.847 [main] INFO  c.e.m.controller.ProductController - HttpURLConnection with resourse https://api.predic8.de/shop/v2/products/ created.
+2024-04-03 19:34:13.513 [main] INFO  c.e.m.controller.ProductController - HttpURLConnection with resourse https://api.predic8.de/shop/v2/products/1 created.
+2024-04-03 19:34:13.596 [main] INFO  c.e.m.controller.ProductController - HttpURLConnection with resourse https://api.predic8.de/shop/v2/vendors/1 created.
+2024-04-03 19:34:13.782 [main] INFO  c.e.m.controller.ProductController - HttpURLConnection with resourse https://api.predic8.de/shop/v2/products/2 created.
+2024-04-03 19:34:13.868 [main] INFO  c.e.m.controller.ProductController - HttpURLConnection with resourse https://api.predic8.de/shop/v2/vendors/2 created.
+2024-04-03 19:34:13.934 [main] INFO  c.e.m.controller.ProductController - HttpURLConnection with resourse https://api.predic8.de/shop/v2/products/3 created.
+2024-04-03 19:34:14.004 [main] INFO  c.e.m.controller.ProductController - HttpURLConnection with resourse https://api.predic8.de/shop/v2/vendors/2 created.
+2024-04-03 19:34:14.096 [main] INFO  c.e.m.controller.ProductController - HttpURLConnection with resourse https://api.predic8.de/shop/v2/products/4 created.
+2024-04-03 19:34:14.166 [main] INFO  c.e.m.controller.ProductController - HttpURLConnection with resourse https://api.predic8.de/shop/v2/vendors/3 created.
+2024-04-03 19:34:14.245 [main] INFO  c.e.m.controller.ProductController - HttpURLConnection with resourse https://api.predic8.de/shop/v2/products/5 created.
+2024-04-03 19:34:14.344 [main] INFO  c.e.m.controller.ProductController - HttpURLConnection with resourse https://api.predic8.de/shop/v2/vendors/1 created.
+2024-04-03 19:34:14.467 [main] INFO  c.e.m.controller.ProductController - HttpURLConnection with resourse https://api.predic8.de/shop/v2/products/6 created.
+2024-04-03 19:34:14.530 [main] INFO  c.e.m.controller.ProductController - HttpURLConnection with resourse https://api.predic8.de/shop/v2/vendors/3 created.
+2024-04-03 19:34:14.592 [main] INFO  c.e.m.controller.ProductController - HttpURLConnection with resourse https://api.predic8.de/shop/v2/products/7 created.
+2024-04-03 19:34:14.664 [main] INFO  c.e.m.controller.ProductController - HttpURLConnection with resourse https://api.predic8.de/shop/v2/vendors/1 created.
+2024-04-03 19:34:14.726 [main] INFO  c.e.m.controller.ProductController - HttpURLConnection with resourse https://api.predic8.de/shop/v2/products/8 created.
+2024-04-03 19:34:14.793 [main] INFO  c.e.m.controller.ProductController - HttpURLConnection with resourse https://api.predic8.de/shop/v2/vendors/2 created.
+2024-04-03 19:34:14.858 [main] INFO  c.e.m.controller.ProductController - HttpURLConnection with resourse https://api.predic8.de/shop/v2/products/9 created.
+2024-04-03 19:34:14.914 [main] INFO  c.e.m.controller.ProductController - HttpURLConnection with resourse https://api.predic8.de/shop/v2/vendors/1 created.
+2024-04-03 19:34:14.982 [main] INFO  c.e.m.controller.ProductController - HttpURLConnection with resourse https://api.predic8.de/shop/v2/products/10 created.
+2024-04-03 19:34:15.043 [main] INFO  c.e.m.controller.ProductController - HttpURLConnection with resourse https://api.predic8.de/shop/v2/vendors/3 created.
+2024-04-03 19:34:15.536 [main] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat started on port 8080 (http) with context path ''
+2024-04-03 19:34:15.556 [main] INFO  com.example.myapp.MyAppApplication - Started MyAppApplication in 6.99 seconds (process running for 7.613)
+2024-04-03 19:34:33.520 [http-nio-8080-exec-1] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2024-04-03 19:34:33.522 [http-nio-8080-exec-1] INFO  o.s.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+2024-04-03 19:34:33.524 [http-nio-8080-exec-1] INFO  o.s.web.servlet.DispatcherServlet - Completed initialization in 2 ms
+2024-04-03 19:59:12.199 [main] INFO  com.example.myapp.MyAppApplication - Starting MyAppApplication using Java 20 with PID 5824 (C:\Users\Korisnik\Desktop\my-app\target\classes started by Korisnik in C:\Users\Korisnik\Desktop\my-app)
+2024-04-03 19:59:12.204 [main] INFO  com.example.myapp.MyAppApplication - No active profile set, falling back to 1 default profile: "default"
+2024-04-03 19:59:15.586 [main] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat initialized with port 8080 (http)
+2024-04-03 19:59:15.615 [main] INFO  o.a.catalina.core.StandardService - Starting service [Tomcat]
+2024-04-03 19:59:15.617 [main] INFO  o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/10.1.19]
+2024-04-03 19:59:15.777 [main] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2024-04-03 19:59:15.778 [main] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 3467 ms
+2024-04-03 19:59:16.458 [main] INFO  c.e.m.controller.ProductController - HttpURLConnection with resourse https://api.predic8.de/shop/v2/products/ created.
+2024-04-03 19:59:17.459 [main] INFO  c.e.m.controller.ProductController - HttpURLConnection with resourse https://api.predic8.de/shop/v2/products/1 created.
+2024-04-03 19:59:17.542 [main] INFO  c.e.m.controller.ProductController - HttpURLConnection with resourse https://api.predic8.de/shop/v2/vendors/1 created.
+2024-04-03 19:59:17.620 [main] INFO  c.e.m.controller.ProductController - HttpURLConnection with resourse https://api.predic8.de/shop/v2/products/2 created.
+2024-04-03 19:59:17.689 [main] INFO  c.e.m.controller.ProductController - HttpURLConnection with resourse https://api.predic8.de/shop/v2/vendors/2 created.
+2024-04-03 19:59:17.749 [main] INFO  c.e.m.controller.ProductController - HttpURLConnection with resourse https://api.predic8.de/shop/v2/products/3 created.
+2024-04-03 19:59:17.826 [main] INFO  c.e.m.controller.ProductController - HttpURLConnection with resourse https://api.predic8.de/shop/v2/vendors/2 created.
+2024-04-03 19:59:17.890 [main] INFO  c.e.m.controller.ProductController - HttpURLConnection with resourse https://api.predic8.de/shop/v2/products/4 created.
+2024-04-03 19:59:17.972 [main] INFO  c.e.m.controller.ProductController - HttpURLConnection with resourse https://api.predic8.de/shop/v2/vendors/3 created.
+2024-04-03 19:59:18.053 [main] INFO  c.e.m.controller.ProductController - HttpURLConnection with resourse https://api.predic8.de/shop/v2/products/5 created.
+2024-04-03 19:59:18.107 [main] INFO  c.e.m.controller.ProductController - HttpURLConnection with resourse https://api.predic8.de/shop/v2/vendors/1 created.
+2024-04-03 19:59:18.178 [main] INFO  c.e.m.controller.ProductController - HttpURLConnection with resourse https://api.predic8.de/shop/v2/products/6 created.
+2024-04-03 19:59:18.247 [main] INFO  c.e.m.controller.ProductController - HttpURLConnection with resourse https://api.predic8.de/shop/v2/vendors/3 created.
+2024-04-03 19:59:18.313 [main] INFO  c.e.m.controller.ProductController - HttpURLConnection with resourse https://api.predic8.de/shop/v2/products/7 created.
+2024-04-03 19:59:18.378 [main] INFO  c.e.m.controller.ProductController - HttpURLConnection with resourse https://api.predic8.de/shop/v2/vendors/1 created.
+2024-04-03 19:59:18.436 [main] INFO  c.e.m.controller.ProductController - HttpURLConnection with resourse https://api.predic8.de/shop/v2/products/8 created.
+2024-04-03 19:59:18.497 [main] INFO  c.e.m.controller.ProductController - HttpURLConnection with resourse https://api.predic8.de/shop/v2/vendors/2 created.
+2024-04-03 19:59:18.561 [main] INFO  c.e.m.controller.ProductController - HttpURLConnection with resourse https://api.predic8.de/shop/v2/products/9 created.
+2024-04-03 19:59:18.625 [main] INFO  c.e.m.controller.ProductController - HttpURLConnection with resourse https://api.predic8.de/shop/v2/vendors/1 created.
+2024-04-03 19:59:18.699 [main] INFO  c.e.m.controller.ProductController - HttpURLConnection with resourse https://api.predic8.de/shop/v2/products/10 created.
+2024-04-03 19:59:18.768 [main] INFO  c.e.m.controller.ProductController - HttpURLConnection with resourse https://api.predic8.de/shop/v2/vendors/3 created.
+2024-04-03 19:59:20.669 [main] INFO  o.s.b.a.e.web.EndpointLinksResolver - Exposing 1 endpoint(s) beneath base path '/actuator'
+2024-04-03 19:59:21.002 [main] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat started on port 8080 (http) with context path ''
+2024-04-03 19:59:21.042 [main] INFO  com.example.myapp.MyAppApplication - Started MyAppApplication in 10.134 seconds (process running for 11.234)
+2024-04-03 19:59:56.195 [http-nio-8080-exec-2] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2024-04-03 19:59:56.196 [http-nio-8080-exec-2] INFO  o.s.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+2024-04-03 19:59:56.197 [http-nio-8080-exec-2] INFO  o.s.web.servlet.DispatcherServlet - Completed initialization in 1 ms
+2024-04-03 20:04:20.696 [main] INFO  com.example.myapp.MyAppApplication - Starting MyAppApplication using Java 20 with PID 13348 (C:\Users\Korisnik\Desktop\my-app\target\classes started by Korisnik in C:\Users\Korisnik\Desktop\my-app)
+2024-04-03 20:04:20.701 [main] INFO  com.example.myapp.MyAppApplication - No active profile set, falling back to 1 default profile: "default"
+2024-04-03 20:04:23.874 [main] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat initialized with port 8080 (http)
+2024-04-03 20:04:23.904 [main] INFO  o.a.catalina.core.StandardService - Starting service [Tomcat]
+2024-04-03 20:04:23.905 [main] INFO  o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/10.1.19]
+2024-04-03 20:04:24.037 [main] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2024-04-03 20:04:24.039 [main] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 3207 ms
+2024-04-03 20:04:24.645 [main] INFO  c.e.m.controller.ProductController - HttpURLConnection with resourse https://api.predic8.de/shop/v2/products/ created.
+2024-04-03 20:04:25.352 [main] INFO  c.e.m.controller.ProductController - HttpURLConnection with resourse https://api.predic8.de/shop/v2/products/1 created.
+2024-04-03 20:04:25.424 [main] INFO  c.e.m.controller.ProductController - HttpURLConnection with resourse https://api.predic8.de/shop/v2/vendors/1 created.
+2024-04-03 20:04:25.500 [main] INFO  c.e.m.controller.ProductController - HttpURLConnection with resourse https://api.predic8.de/shop/v2/products/2 created.
+2024-04-03 20:04:25.568 [main] INFO  c.e.m.controller.ProductController - HttpURLConnection with resourse https://api.predic8.de/shop/v2/vendors/2 created.
+2024-04-03 20:04:25.633 [main] INFO  c.e.m.controller.ProductController - HttpURLConnection with resourse https://api.predic8.de/shop/v2/products/3 created.
+2024-04-03 20:04:25.693 [main] INFO  c.e.m.controller.ProductController - HttpURLConnection with resourse https://api.predic8.de/shop/v2/vendors/2 created.
+2024-04-03 20:04:25.759 [main] INFO  c.e.m.controller.ProductController - HttpURLConnection with resourse https://api.predic8.de/shop/v2/products/4 created.
+2024-04-03 20:04:25.818 [main] INFO  c.e.m.controller.ProductController - HttpURLConnection with resourse https://api.predic8.de/shop/v2/vendors/3 created.
+2024-04-03 20:04:25.884 [main] INFO  c.e.m.controller.ProductController - HttpURLConnection with resourse https://api.predic8.de/shop/v2/products/5 created.
+2024-04-03 20:04:25.951 [main] INFO  c.e.m.controller.ProductController - HttpURLConnection with resourse https://api.predic8.de/shop/v2/vendors/1 created.
+2024-04-03 20:04:26.025 [main] INFO  c.e.m.controller.ProductController - HttpURLConnection with resourse https://api.predic8.de/shop/v2/products/6 created.
+2024-04-03 20:04:26.089 [main] INFO  c.e.m.controller.ProductController - HttpURLConnection with resourse https://api.predic8.de/shop/v2/vendors/3 created.
+2024-04-03 20:04:26.150 [main] INFO  c.e.m.controller.ProductController - HttpURLConnection with resourse https://api.predic8.de/shop/v2/products/7 created.
+2024-04-03 20:04:26.218 [main] INFO  c.e.m.controller.ProductController - HttpURLConnection with resourse https://api.predic8.de/shop/v2/vendors/1 created.
+2024-04-03 20:04:26.274 [main] INFO  c.e.m.controller.ProductController - HttpURLConnection with resourse https://api.predic8.de/shop/v2/products/8 created.
+2024-04-03 20:04:26.344 [main] INFO  c.e.m.controller.ProductController - HttpURLConnection with resourse https://api.predic8.de/shop/v2/vendors/2 created.
+2024-04-03 20:04:26.461 [main] INFO  c.e.m.controller.ProductController - HttpURLConnection with resourse https://api.predic8.de/shop/v2/products/9 created.
+2024-04-03 20:04:26.544 [main] INFO  c.e.m.controller.ProductController - HttpURLConnection with resourse https://api.predic8.de/shop/v2/vendors/1 created.
+2024-04-03 20:04:26.621 [main] INFO  c.e.m.controller.ProductController - HttpURLConnection with resourse https://api.predic8.de/shop/v2/products/10 created.
+2024-04-03 20:04:26.697 [main] INFO  c.e.m.controller.ProductController - HttpURLConnection with resourse https://api.predic8.de/shop/v2/vendors/3 created.
+2024-04-03 20:04:27.500 [main] INFO  o.s.b.a.e.web.EndpointLinksResolver - Exposing 1 endpoint(s) beneath base path '/actuator'
+2024-04-03 20:04:27.623 [main] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat started on port 8080 (http) with context path ''
+2024-04-03 20:04:27.650 [main] INFO  com.example.myapp.MyAppApplication - Started MyAppApplication in 8.292 seconds (process running for 9.193)
+2024-04-03 20:04:43.853 [http-nio-8080-exec-2] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2024-04-03 20:04:43.854 [http-nio-8080-exec-2] INFO  o.s.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+2024-04-03 20:04:43.858 [http-nio-8080-exec-2] INFO  o.s.web.servlet.DispatcherServlet - Completed initialization in 3 ms
+2024-04-03 20:06:00.479 [main] INFO  com.example.myapp.MyAppApplication - Starting MyAppApplication using Java 20 with PID 1860 (C:\Users\Korisnik\Desktop\my-app\target\classes started by Korisnik in C:\Users\Korisnik\Desktop\my-app)
+2024-04-03 20:06:00.487 [main] INFO  com.example.myapp.MyAppApplication - No active profile set, falling back to 1 default profile: "default"
+2024-04-03 20:06:03.706 [main] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat initialized with port 8080 (http)
+2024-04-03 20:06:03.744 [main] INFO  o.a.catalina.core.StandardService - Starting service [Tomcat]
+2024-04-03 20:06:03.745 [main] INFO  o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/10.1.19]
+2024-04-03 20:06:03.875 [main] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2024-04-03 20:06:03.877 [main] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 3097 ms
+2024-04-03 20:06:04.519 [main] INFO  c.e.m.controller.ProductController - HttpURLConnection with resourse https://api.predic8.de/shop/v2/products/ created.
+2024-04-03 20:06:05.146 [main] INFO  c.e.m.controller.ProductController - HttpURLConnection with resourse https://api.predic8.de/shop/v2/products/1 created.
+2024-04-03 20:06:05.232 [main] INFO  c.e.m.controller.ProductController - HttpURLConnection with resourse https://api.predic8.de/shop/v2/vendors/1 created.
+2024-04-03 20:06:05.310 [main] INFO  c.e.m.controller.ProductController - HttpURLConnection with resourse https://api.predic8.de/shop/v2/products/2 created.
+2024-04-03 20:06:05.388 [main] INFO  c.e.m.controller.ProductController - HttpURLConnection with resourse https://api.predic8.de/shop/v2/vendors/2 created.
+2024-04-03 20:06:05.459 [main] INFO  c.e.m.controller.ProductController - HttpURLConnection with resourse https://api.predic8.de/shop/v2/products/3 created.
+2024-04-03 20:06:05.531 [main] INFO  c.e.m.controller.ProductController - HttpURLConnection with resourse https://api.predic8.de/shop/v2/vendors/2 created.
+2024-04-03 20:06:05.599 [main] INFO  c.e.m.controller.ProductController - HttpURLConnection with resourse https://api.predic8.de/shop/v2/products/4 created.
+2024-04-03 20:06:05.660 [main] INFO  c.e.m.controller.ProductController - HttpURLConnection with resourse https://api.predic8.de/shop/v2/vendors/3 created.
+2024-04-03 20:06:05.727 [main] INFO  c.e.m.controller.ProductController - HttpURLConnection with resourse https://api.predic8.de/shop/v2/products/5 created.
+2024-04-03 20:06:05.790 [main] INFO  c.e.m.controller.ProductController - HttpURLConnection with resourse https://api.predic8.de/shop/v2/vendors/1 created.
+2024-04-03 20:06:05.848 [main] INFO  c.e.m.controller.ProductController - HttpURLConnection with resourse https://api.predic8.de/shop/v2/products/6 created.
+2024-04-03 20:06:05.911 [main] INFO  c.e.m.controller.ProductController - HttpURLConnection with resourse https://api.predic8.de/shop/v2/vendors/3 created.
+2024-04-03 20:06:05.979 [main] INFO  c.e.m.controller.ProductController - HttpURLConnection with resourse https://api.predic8.de/shop/v2/products/7 created.
+2024-04-03 20:06:06.041 [main] INFO  c.e.m.controller.ProductController - HttpURLConnection with resourse https://api.predic8.de/shop/v2/vendors/1 created.
+2024-04-03 20:06:06.115 [main] INFO  c.e.m.controller.ProductController - HttpURLConnection with resourse https://api.predic8.de/shop/v2/products/8 created.
+2024-04-03 20:06:06.193 [main] INFO  c.e.m.controller.ProductController - HttpURLConnection with resourse https://api.predic8.de/shop/v2/vendors/2 created.
+2024-04-03 20:06:06.263 [main] INFO  c.e.m.controller.ProductController - HttpURLConnection with resourse https://api.predic8.de/shop/v2/products/9 created.
+2024-04-03 20:06:06.349 [main] INFO  c.e.m.controller.ProductController - HttpURLConnection with resourse https://api.predic8.de/shop/v2/vendors/1 created.
+2024-04-03 20:06:06.427 [main] INFO  c.e.m.controller.ProductController - HttpURLConnection with resourse https://api.predic8.de/shop/v2/products/10 created.
+2024-04-03 20:06:06.501 [main] INFO  c.e.m.controller.ProductController - HttpURLConnection with resourse https://api.predic8.de/shop/v2/vendors/3 created.
+2024-04-03 20:06:07.347 [main] INFO  o.s.b.a.e.web.EndpointLinksResolver - Exposing 1 endpoint(s) beneath base path '/actuator'
+2024-04-03 20:06:07.494 [main] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat started on port 8080 (http) with context path ''
+2024-04-03 20:06:07.544 [main] INFO  com.example.myapp.MyAppApplication - Started MyAppApplication in 8.4 seconds (process running for 9.161)
+2024-04-03 20:06:11.455 [http-nio-8080-exec-2] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2024-04-03 20:06:11.456 [http-nio-8080-exec-2] INFO  o.s.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+2024-04-03 20:06:11.459 [http-nio-8080-exec-2] INFO  o.s.web.servlet.DispatcherServlet - Completed initialization in 1 ms
+2024-04-03 20:08:10.081 [main] INFO  com.example.myapp.MyAppApplication - Starting MyAppApplication using Java 20 with PID 6688 (C:\Users\Korisnik\Desktop\my-app\target\classes started by Korisnik in C:\Users\Korisnik\Desktop\my-app)
+2024-04-03 20:08:10.086 [main] INFO  com.example.myapp.MyAppApplication - No active profile set, falling back to 1 default profile: "default"
+2024-04-03 20:08:13.440 [main] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat initialized with port 8080 (http)
+2024-04-03 20:08:13.471 [main] INFO  o.a.catalina.core.StandardService - Starting service [Tomcat]
+2024-04-03 20:08:13.472 [main] INFO  o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/10.1.19]
+2024-04-03 20:08:13.603 [main] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2024-04-03 20:08:13.604 [main] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 3353 ms
+2024-04-03 20:08:14.180 [main] INFO  c.e.m.controller.ProductController - HttpURLConnection with resourse https://api.predic8.de/shop/v2/products/ created.
+2024-04-03 20:08:14.781 [main] INFO  c.e.m.controller.ProductController - HttpURLConnection with resourse https://api.predic8.de/shop/v2/products/1 created.
+2024-04-03 20:08:14.873 [main] INFO  c.e.m.controller.ProductController - HttpURLConnection with resourse https://api.predic8.de/shop/v2/vendors/1 created.
+2024-04-03 20:08:14.958 [main] INFO  c.e.m.controller.ProductController - HttpURLConnection with resourse https://api.predic8.de/shop/v2/products/2 created.
+2024-04-03 20:08:15.047 [main] INFO  c.e.m.controller.ProductController - HttpURLConnection with resourse https://api.predic8.de/shop/v2/vendors/2 created.
+2024-04-03 20:08:15.106 [main] INFO  c.e.m.controller.ProductController - HttpURLConnection with resourse https://api.predic8.de/shop/v2/products/3 created.
+2024-04-03 20:08:15.181 [main] INFO  c.e.m.controller.ProductController - HttpURLConnection with resourse https://api.predic8.de/shop/v2/vendors/2 created.
+2024-04-03 20:08:15.244 [main] INFO  c.e.m.controller.ProductController - HttpURLConnection with resourse https://api.predic8.de/shop/v2/products/4 created.
+2024-04-03 20:08:15.309 [main] INFO  c.e.m.controller.ProductController - HttpURLConnection with resourse https://api.predic8.de/shop/v2/vendors/3 created.
+2024-04-03 20:08:15.370 [main] INFO  c.e.m.controller.ProductController - HttpURLConnection with resourse https://api.predic8.de/shop/v2/products/5 created.
+2024-04-03 20:08:15.427 [main] INFO  c.e.m.controller.ProductController - HttpURLConnection with resourse https://api.predic8.de/shop/v2/vendors/1 created.
+2024-04-03 20:08:15.495 [main] INFO  c.e.m.controller.ProductController - HttpURLConnection with resourse https://api.predic8.de/shop/v2/products/6 created.
+2024-04-03 20:08:15.563 [main] INFO  c.e.m.controller.ProductController - HttpURLConnection with resourse https://api.predic8.de/shop/v2/vendors/3 created.
+2024-04-03 20:08:15.636 [main] INFO  c.e.m.controller.ProductController - HttpURLConnection with resourse https://api.predic8.de/shop/v2/products/7 created.
+2024-04-03 20:08:15.698 [main] INFO  c.e.m.controller.ProductController - HttpURLConnection with resourse https://api.predic8.de/shop/v2/vendors/1 created.
+2024-04-03 20:08:15.758 [main] INFO  c.e.m.controller.ProductController - HttpURLConnection with resourse https://api.predic8.de/shop/v2/products/8 created.
+2024-04-03 20:08:15.828 [main] INFO  c.e.m.controller.ProductController - HttpURLConnection with resourse https://api.predic8.de/shop/v2/vendors/2 created.
+2024-04-03 20:08:15.897 [main] INFO  c.e.m.controller.ProductController - HttpURLConnection with resourse https://api.predic8.de/shop/v2/products/9 created.
+2024-04-03 20:08:15.969 [main] INFO  c.e.m.controller.ProductController - HttpURLConnection with resourse https://api.predic8.de/shop/v2/vendors/1 created.
+2024-04-03 20:08:16.035 [main] INFO  c.e.m.controller.ProductController - HttpURLConnection with resourse https://api.predic8.de/shop/v2/products/10 created.
+2024-04-03 20:08:16.090 [main] INFO  c.e.m.controller.ProductController - HttpURLConnection with resourse https://api.predic8.de/shop/v2/vendors/3 created.
+2024-04-03 20:08:17.210 [main] INFO  o.s.b.a.e.web.EndpointLinksResolver - Exposing 1 endpoint(s) beneath base path '/actuator'
+2024-04-03 20:08:17.355 [main] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat started on port 8080 (http) with context path ''
+2024-04-03 20:08:17.395 [main] INFO  com.example.myapp.MyAppApplication - Started MyAppApplication in 8.889 seconds (process running for 9.526)
+2024-04-03 20:08:33.041 [http-nio-8080-exec-1] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2024-04-03 20:08:33.042 [http-nio-8080-exec-1] INFO  o.s.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+2024-04-03 20:08:33.046 [http-nio-8080-exec-1] INFO  o.s.web.servlet.DispatcherServlet - Completed initialization in 4 ms
+2024-04-03 20:11:31.720 [http-nio-8080-exec-5] WARN  o.s.web.servlet.PageNotFound - No mapping for GET /actuator/metrics/system.%20cpu.%20usage
+2024-04-03 20:11:31.725 [http-nio-8080-exec-5] WARN  o.s.web.servlet.PageNotFound - No endpoint GET /actuator/metrics/system.%20cpu.%20usage.
+2024-04-03 20:13:11.214 [http-nio-8080-exec-8] WARN  o.s.web.servlet.PageNotFound - No mapping for GET /actuator/beans
+2024-04-03 20:13:11.215 [http-nio-8080-exec-8] WARN  o.s.web.servlet.PageNotFound - No endpoint GET /actuator/beans.
+2024-04-03 20:16:40.268 [main] INFO  com.example.myapp.MyAppApplication - Starting MyAppApplication using Java 20 with PID 9968 (C:\Users\Korisnik\Desktop\my-app\target\classes started by Korisnik in C:\Users\Korisnik\Desktop\my-app)
+2024-04-03 20:16:40.272 [main] INFO  com.example.myapp.MyAppApplication - No active profile set, falling back to 1 default profile: "default"
+2024-04-03 20:16:42.546 [main] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat initialized with port 8080 (http)
+2024-04-03 20:16:42.572 [main] INFO  o.a.catalina.core.StandardService - Starting service [Tomcat]
+2024-04-03 20:16:42.573 [main] INFO  o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/10.1.19]
+2024-04-03 20:16:42.697 [main] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2024-04-03 20:16:42.699 [main] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 2348 ms
+2024-04-03 20:16:43.346 [main] INFO  c.e.m.controller.ProductController - HttpURLConnection with resourse https://api.predic8.de/shop/v2/products/ created.
+2024-04-03 20:16:44.036 [main] INFO  c.e.m.controller.ProductController - HttpURLConnection with resourse https://api.predic8.de/shop/v2/products/1 created.
+2024-04-03 20:16:44.124 [main] INFO  c.e.m.controller.ProductController - HttpURLConnection with resourse https://api.predic8.de/shop/v2/vendors/1 created.
+2024-04-03 20:16:44.188 [main] INFO  c.e.m.controller.ProductController - HttpURLConnection with resourse https://api.predic8.de/shop/v2/products/2 created.
+2024-04-03 20:16:44.257 [main] INFO  c.e.m.controller.ProductController - HttpURLConnection with resourse https://api.predic8.de/shop/v2/vendors/2 created.
+2024-04-03 20:16:44.331 [main] INFO  c.e.m.controller.ProductController - HttpURLConnection with resourse https://api.predic8.de/shop/v2/products/3 created.
+2024-04-03 20:16:44.399 [main] INFO  c.e.m.controller.ProductController - HttpURLConnection with resourse https://api.predic8.de/shop/v2/vendors/2 created.
+2024-04-03 20:16:44.464 [main] INFO  c.e.m.controller.ProductController - HttpURLConnection with resourse https://api.predic8.de/shop/v2/products/4 created.
+2024-04-03 20:16:44.526 [main] INFO  c.e.m.controller.ProductController - HttpURLConnection with resourse https://api.predic8.de/shop/v2/vendors/3 created.
+2024-04-03 20:16:44.587 [main] INFO  c.e.m.controller.ProductController - HttpURLConnection with resourse https://api.predic8.de/shop/v2/products/5 created.
+2024-04-03 20:16:44.657 [main] INFO  c.e.m.controller.ProductController - HttpURLConnection with resourse https://api.predic8.de/shop/v2/vendors/1 created.
+2024-04-03 20:16:44.712 [main] INFO  c.e.m.controller.ProductController - HttpURLConnection with resourse https://api.predic8.de/shop/v2/products/6 created.
+2024-04-03 20:16:44.775 [main] INFO  c.e.m.controller.ProductController - HttpURLConnection with resourse https://api.predic8.de/shop/v2/vendors/3 created.
+2024-04-03 20:16:44.844 [main] INFO  c.e.m.controller.ProductController - HttpURLConnection with resourse https://api.predic8.de/shop/v2/products/7 created.
+2024-04-03 20:16:44.902 [main] INFO  c.e.m.controller.ProductController - HttpURLConnection with resourse https://api.predic8.de/shop/v2/vendors/1 created.
+2024-04-03 20:16:44.958 [main] INFO  c.e.m.controller.ProductController - HttpURLConnection with resourse https://api.predic8.de/shop/v2/products/8 created.
+2024-04-03 20:16:45.025 [main] INFO  c.e.m.controller.ProductController - HttpURLConnection with resourse https://api.predic8.de/shop/v2/vendors/2 created.
+2024-04-03 20:16:45.086 [main] INFO  c.e.m.controller.ProductController - HttpURLConnection with resourse https://api.predic8.de/shop/v2/products/9 created.
+2024-04-03 20:16:45.171 [main] INFO  c.e.m.controller.ProductController - HttpURLConnection with resourse https://api.predic8.de/shop/v2/vendors/1 created.
+2024-04-03 20:16:45.248 [main] INFO  c.e.m.controller.ProductController - HttpURLConnection with resourse https://api.predic8.de/shop/v2/products/10 created.
+2024-04-03 20:16:45.326 [main] INFO  c.e.m.controller.ProductController - HttpURLConnection with resourse https://api.predic8.de/shop/v2/vendors/3 created.
+2024-04-03 20:16:46.083 [main] INFO  o.s.b.a.e.web.EndpointLinksResolver - Exposing 0 endpoint(s) beneath base path '/actuator'
+2024-04-03 20:16:46.205 [main] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat started on port 8080 (http) with context path ''
+2024-04-03 20:16:46.232 [main] INFO  com.example.myapp.MyAppApplication - Started MyAppApplication in 6.978 seconds (process running for 7.559)
+2024-04-03 20:16:54.327 [http-nio-8080-exec-1] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2024-04-03 20:16:54.328 [http-nio-8080-exec-1] INFO  o.s.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+2024-04-03 20:16:54.332 [http-nio-8080-exec-1] INFO  o.s.web.servlet.DispatcherServlet - Completed initialization in 1 ms
+2024-04-03 20:16:54.373 [http-nio-8080-exec-1] WARN  o.s.web.servlet.PageNotFound - No mapping for GET /actuator/loggers
+2024-04-03 20:16:54.383 [http-nio-8080-exec-1] WARN  o.s.web.servlet.PageNotFound - No endpoint GET /actuator/loggers.
+2024-04-03 20:20:57.464 [http-nio-8080-exec-4] WARN  o.s.web.servlet.PageNotFound - No mapping for GET /health
+2024-04-03 20:20:57.465 [http-nio-8080-exec-4] WARN  o.s.web.servlet.PageNotFound - No endpoint GET /health.
+2024-04-03 20:21:05.043 [http-nio-8080-exec-6] WARN  o.s.web.servlet.PageNotFound - No mapping for GET /actuator/health
+2024-04-03 20:21:05.045 [http-nio-8080-exec-6] WARN  o.s.web.servlet.PageNotFound - No endpoint GET /actuator/health.
+2024-04-03 20:21:20.885 [http-nio-8080-exec-7] WARN  o.s.web.servlet.PageNotFound - No mapping for GET /actuator/health
+2024-04-03 20:21:20.886 [http-nio-8080-exec-7] WARN  o.s.web.servlet.PageNotFound - No endpoint GET /actuator/health.
+2024-04-03 20:21:26.467 [http-nio-8080-exec-8] WARN  o.s.web.servlet.PageNotFound - No mapping for GET /actuator/health/
+2024-04-03 20:21:26.468 [http-nio-8080-exec-8] WARN  o.s.web.servlet.PageNotFound - No endpoint GET /actuator/health/.
+2024-04-03 20:21:38.098 [http-nio-8080-exec-9] WARN  o.s.web.servlet.PageNotFound - No mapping for GET /actuator/health
+2024-04-03 20:21:38.098 [http-nio-8080-exec-9] WARN  o.s.web.servlet.PageNotFound - No endpoint GET /actuator/health.
+2024-04-03 20:22:10.116 [main] INFO  com.example.myapp.MyAppApplication - Starting MyAppApplication using Java 20 with PID 12128 (C:\Users\Korisnik\Desktop\my-app\target\classes started by Korisnik in C:\Users\Korisnik\Desktop\my-app)
+2024-04-03 20:22:10.119 [main] INFO  com.example.myapp.MyAppApplication - No active profile set, falling back to 1 default profile: "default"
+2024-04-03 20:22:13.184 [main] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat initialized with port 8080 (http)
+2024-04-03 20:22:13.212 [main] INFO  o.a.catalina.core.StandardService - Starting service [Tomcat]
+2024-04-03 20:22:13.213 [main] INFO  o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/10.1.19]
+2024-04-03 20:22:13.343 [main] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2024-04-03 20:22:13.345 [main] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 3098 ms
+2024-04-03 20:22:14.071 [main] INFO  c.e.m.controller.ProductController - HttpURLConnection with resourse https://api.predic8.de/shop/v2/products/ created.
+2024-04-03 20:22:14.788 [main] INFO  c.e.m.controller.ProductController - HttpURLConnection with resourse https://api.predic8.de/shop/v2/products/1 created.
+2024-04-03 20:22:14.871 [main] INFO  c.e.m.controller.ProductController - HttpURLConnection with resourse https://api.predic8.de/shop/v2/vendors/1 created.
+2024-04-03 20:22:14.950 [main] INFO  c.e.m.controller.ProductController - HttpURLConnection with resourse https://api.predic8.de/shop/v2/products/2 created.
+2024-04-03 20:22:15.010 [main] INFO  c.e.m.controller.ProductController - HttpURLConnection with resourse https://api.predic8.de/shop/v2/vendors/2 created.
+2024-04-03 20:22:15.082 [main] INFO  c.e.m.controller.ProductController - HttpURLConnection with resourse https://api.predic8.de/shop/v2/products/3 created.
+2024-04-03 20:22:15.163 [main] INFO  c.e.m.controller.ProductController - HttpURLConnection with resourse https://api.predic8.de/shop/v2/vendors/2 created.
+2024-04-03 20:22:15.227 [main] INFO  c.e.m.controller.ProductController - HttpURLConnection with resourse https://api.predic8.de/shop/v2/products/4 created.
+2024-04-03 20:22:15.297 [main] INFO  c.e.m.controller.ProductController - HttpURLConnection with resourse https://api.predic8.de/shop/v2/vendors/3 created.
+2024-04-03 20:22:15.379 [main] INFO  c.e.m.controller.ProductController - HttpURLConnection with resourse https://api.predic8.de/shop/v2/products/5 created.
+2024-04-03 20:22:15.449 [main] INFO  c.e.m.controller.ProductController - HttpURLConnection with resourse https://api.predic8.de/shop/v2/vendors/1 created.
+2024-04-03 20:22:15.516 [main] INFO  c.e.m.controller.ProductController - HttpURLConnection with resourse https://api.predic8.de/shop/v2/products/6 created.
+2024-04-03 20:22:15.588 [main] INFO  c.e.m.controller.ProductController - HttpURLConnection with resourse https://api.predic8.de/shop/v2/vendors/3 created.
+2024-04-03 20:22:15.676 [main] INFO  c.e.m.controller.ProductController - HttpURLConnection with resourse https://api.predic8.de/shop/v2/products/7 created.
+2024-04-03 20:22:15.735 [main] INFO  c.e.m.controller.ProductController - HttpURLConnection with resourse https://api.predic8.de/shop/v2/vendors/1 created.
+2024-04-03 20:22:15.796 [main] INFO  c.e.m.controller.ProductController - HttpURLConnection with resourse https://api.predic8.de/shop/v2/products/8 created.
+2024-04-03 20:22:15.861 [main] INFO  c.e.m.controller.ProductController - HttpURLConnection with resourse https://api.predic8.de/shop/v2/vendors/2 created.
+2024-04-03 20:22:15.930 [main] INFO  c.e.m.controller.ProductController - HttpURLConnection with resourse https://api.predic8.de/shop/v2/products/9 created.
+2024-04-03 20:22:15.994 [main] INFO  c.e.m.controller.ProductController - HttpURLConnection with resourse https://api.predic8.de/shop/v2/vendors/1 created.
+2024-04-03 20:22:16.056 [main] INFO  c.e.m.controller.ProductController - HttpURLConnection with resourse https://api.predic8.de/shop/v2/products/10 created.
+2024-04-03 20:22:16.121 [main] INFO  c.e.m.controller.ProductController - HttpURLConnection with resourse https://api.predic8.de/shop/v2/vendors/3 created.
+2024-04-03 20:22:17.158 [main] INFO  o.s.b.a.e.web.EndpointLinksResolver - Exposing 1 endpoint(s) beneath base path '/actuator'
+2024-04-03 20:22:17.332 [main] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat started on port 8080 (http) with context path ''
+2024-04-03 20:22:17.364 [main] INFO  com.example.myapp.MyAppApplication - Started MyAppApplication in 8.558 seconds (process running for 9.29)
+2024-04-03 20:22:38.319 [http-nio-8080-exec-2] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2024-04-03 20:22:38.320 [http-nio-8080-exec-2] INFO  o.s.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+2024-04-03 20:22:38.323 [http-nio-8080-exec-2] INFO  o.s.web.servlet.DispatcherServlet - Completed initialization in 1 ms
+2024-04-03 20:24:45.584 [http-nio-8080-exec-7] WARN  o.s.web.servlet.PageNotFound - No mapping for GET /actuator/beans
+2024-04-03 20:24:45.590 [http-nio-8080-exec-7] WARN  o.s.web.servlet.PageNotFound - No endpoint GET /actuator/beans.
+2024-04-03 20:24:50.556 [http-nio-8080-exec-8] WARN  o.s.web.servlet.PageNotFound - No mapping for GET /beans
+2024-04-03 20:24:50.558 [http-nio-8080-exec-8] WARN  o.s.web.servlet.PageNotFound - No endpoint GET /beans.
+2024-04-03 20:25:10.418 [http-nio-8080-exec-10] WARN  o.s.web.servlet.PageNotFound - No mapping for GET /actuator/beans
+2024-04-03 20:25:10.422 [http-nio-8080-exec-10] WARN  o.s.web.servlet.PageNotFound - No endpoint GET /actuator/beans.
+2024-04-03 20:25:14.090 [http-nio-8080-exec-1] WARN  o.s.web.servlet.PageNotFound - No mapping for GET /beans
+2024-04-03 20:25:14.091 [http-nio-8080-exec-1] WARN  o.s.web.servlet.PageNotFound - No endpoint GET /beans.
+2024-04-03 20:26:04.985 [main] INFO  com.example.myapp.MyAppApplication - Starting MyAppApplication using Java 20 with PID 4700 (C:\Users\Korisnik\Desktop\my-app\target\classes started by Korisnik in C:\Users\Korisnik\Desktop\my-app)
+2024-04-03 20:26:04.990 [main] INFO  com.example.myapp.MyAppApplication - No active profile set, falling back to 1 default profile: "default"
+2024-04-03 20:26:08.537 [main] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat initialized with port 8080 (http)
+2024-04-03 20:26:08.572 [main] INFO  o.a.catalina.core.StandardService - Starting service [Tomcat]
+2024-04-03 20:26:08.574 [main] INFO  o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/10.1.19]
+2024-04-03 20:26:08.759 [main] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2024-04-03 20:26:08.763 [main] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 3657 ms
+2024-04-03 20:26:09.528 [main] INFO  c.e.m.controller.ProductController - HttpURLConnection with resourse https://api.predic8.de/shop/v2/products/ created.
+2024-04-03 20:26:10.290 [main] INFO  c.e.m.controller.ProductController - HttpURLConnection with resourse https://api.predic8.de/shop/v2/products/1 created.
+2024-04-03 20:26:10.368 [main] INFO  c.e.m.controller.ProductController - HttpURLConnection with resourse https://api.predic8.de/shop/v2/vendors/1 created.
+2024-04-03 20:26:10.439 [main] INFO  c.e.m.controller.ProductController - HttpURLConnection with resourse https://api.predic8.de/shop/v2/products/2 created.
+2024-04-03 20:26:10.518 [main] INFO  c.e.m.controller.ProductController - HttpURLConnection with resourse https://api.predic8.de/shop/v2/vendors/2 created.
+2024-04-03 20:26:10.586 [main] INFO  c.e.m.controller.ProductController - HttpURLConnection with resourse https://api.predic8.de/shop/v2/products/3 created.
+2024-04-03 20:26:10.654 [main] INFO  c.e.m.controller.ProductController - HttpURLConnection with resourse https://api.predic8.de/shop/v2/vendors/2 created.
+2024-04-03 20:26:10.727 [main] INFO  c.e.m.controller.ProductController - HttpURLConnection with resourse https://api.predic8.de/shop/v2/products/4 created.
+2024-04-03 20:26:10.797 [main] INFO  c.e.m.controller.ProductController - HttpURLConnection with resourse https://api.predic8.de/shop/v2/vendors/3 created.
+2024-04-03 20:26:10.859 [main] INFO  c.e.m.controller.ProductController - HttpURLConnection with resourse https://api.predic8.de/shop/v2/products/5 created.
+2024-04-03 20:26:10.916 [main] INFO  c.e.m.controller.ProductController - HttpURLConnection with resourse https://api.predic8.de/shop/v2/vendors/1 created.
+2024-04-03 20:26:10.971 [main] INFO  c.e.m.controller.ProductController - HttpURLConnection with resourse https://api.predic8.de/shop/v2/products/6 created.
+2024-04-03 20:26:11.044 [main] INFO  c.e.m.controller.ProductController - HttpURLConnection with resourse https://api.predic8.de/shop/v2/vendors/3 created.
+2024-04-03 20:26:11.103 [main] INFO  c.e.m.controller.ProductController - HttpURLConnection with resourse https://api.predic8.de/shop/v2/products/7 created.
+2024-04-03 20:26:11.173 [main] INFO  c.e.m.controller.ProductController - HttpURLConnection with resourse https://api.predic8.de/shop/v2/vendors/1 created.
+2024-04-03 20:26:11.243 [main] INFO  c.e.m.controller.ProductController - HttpURLConnection with resourse https://api.predic8.de/shop/v2/products/8 created.
+2024-04-03 20:26:11.309 [main] INFO  c.e.m.controller.ProductController - HttpURLConnection with resourse https://api.predic8.de/shop/v2/vendors/2 created.
+2024-04-03 20:26:11.418 [main] INFO  c.e.m.controller.ProductController - HttpURLConnection with resourse https://api.predic8.de/shop/v2/products/9 created.
+2024-04-03 20:26:11.485 [main] INFO  c.e.m.controller.ProductController - HttpURLConnection with resourse https://api.predic8.de/shop/v2/vendors/1 created.
+2024-04-03 20:26:11.549 [main] INFO  c.e.m.controller.ProductController - HttpURLConnection with resourse https://api.predic8.de/shop/v2/products/10 created.
+2024-04-03 20:26:11.605 [main] INFO  c.e.m.controller.ProductController - HttpURLConnection with resourse https://api.predic8.de/shop/v2/vendors/3 created.
+2024-04-03 20:26:12.454 [main] INFO  o.s.b.a.e.web.EndpointLinksResolver - Exposing 1 endpoint(s) beneath base path '/actuator'
+2024-04-03 20:26:12.587 [main] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat started on port 8080 (http) with context path ''
+2024-04-03 20:26:12.617 [main] INFO  com.example.myapp.MyAppApplication - Started MyAppApplication in 9.044 seconds (process running for 9.708)
+2024-04-03 20:37:09.344 [main] INFO  com.example.myapp.MyAppApplication - Starting MyAppApplication using Java 20 with PID 14544 (C:\Users\Korisnik\Desktop\my-app\target\classes started by Korisnik in C:\Users\Korisnik\Desktop\my-app)
+2024-04-03 20:37:09.351 [main] INFO  com.example.myapp.MyAppApplication - No active profile set, falling back to 1 default profile: "default"
+2024-04-03 20:37:12.660 [main] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat initialized with port 8080 (http)
+2024-04-03 20:37:12.692 [main] INFO  o.a.catalina.core.StandardService - Starting service [Tomcat]
+2024-04-03 20:37:12.693 [main] INFO  o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/10.1.19]
+2024-04-03 20:37:12.852 [main] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2024-04-03 20:37:12.854 [main] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 3384 ms
+2024-04-03 20:37:13.451 [main] INFO  c.e.m.controller.ProductController - HttpURLConnection with resourse https://api.predic8.de/shop/v2/products/ created.
+2024-04-03 20:37:14.139 [main] INFO  c.e.m.controller.ProductController - HttpURLConnection with resourse https://api.predic8.de/shop/v2/products/1 created.
+2024-04-03 20:37:14.233 [main] INFO  c.e.m.controller.ProductController - HttpURLConnection with resourse https://api.predic8.de/shop/v2/vendors/1 created.
+2024-04-03 20:37:14.308 [main] INFO  c.e.m.controller.ProductController - HttpURLConnection with resourse https://api.predic8.de/shop/v2/products/2 created.
+2024-04-03 20:37:14.405 [main] INFO  c.e.m.controller.ProductController - HttpURLConnection with resourse https://api.predic8.de/shop/v2/vendors/2 created.
+2024-04-03 20:37:14.467 [main] INFO  c.e.m.controller.ProductController - HttpURLConnection with resourse https://api.predic8.de/shop/v2/products/3 created.
+2024-04-03 20:37:14.538 [main] INFO  c.e.m.controller.ProductController - HttpURLConnection with resourse https://api.predic8.de/shop/v2/vendors/2 created.
+2024-04-03 20:37:14.614 [main] INFO  c.e.m.controller.ProductController - HttpURLConnection with resourse https://api.predic8.de/shop/v2/products/4 created.
+2024-04-03 20:37:14.671 [main] INFO  c.e.m.controller.ProductController - HttpURLConnection with resourse https://api.predic8.de/shop/v2/vendors/3 created.
+2024-04-03 20:37:14.736 [main] INFO  c.e.m.controller.ProductController - HttpURLConnection with resourse https://api.predic8.de/shop/v2/products/5 created.
+2024-04-03 20:37:14.795 [main] INFO  c.e.m.controller.ProductController - HttpURLConnection with resourse https://api.predic8.de/shop/v2/vendors/1 created.
+2024-04-03 20:37:14.857 [main] INFO  c.e.m.controller.ProductController - HttpURLConnection with resourse https://api.predic8.de/shop/v2/products/6 created.
+2024-04-03 20:37:14.939 [main] INFO  c.e.m.controller.ProductController - HttpURLConnection with resourse https://api.predic8.de/shop/v2/vendors/3 created.
+2024-04-03 20:37:14.999 [main] INFO  c.e.m.controller.ProductController - HttpURLConnection with resourse https://api.predic8.de/shop/v2/products/7 created.
+2024-04-03 20:37:15.058 [main] INFO  c.e.m.controller.ProductController - HttpURLConnection with resourse https://api.predic8.de/shop/v2/vendors/1 created.
+2024-04-03 20:37:15.124 [main] INFO  c.e.m.controller.ProductController - HttpURLConnection with resourse https://api.predic8.de/shop/v2/products/8 created.
+2024-04-03 20:37:15.185 [main] INFO  c.e.m.controller.ProductController - HttpURLConnection with resourse https://api.predic8.de/shop/v2/vendors/2 created.
+2024-04-03 20:37:15.256 [main] INFO  c.e.m.controller.ProductController - HttpURLConnection with resourse https://api.predic8.de/shop/v2/products/9 created.
+2024-04-03 20:37:15.328 [main] INFO  c.e.m.controller.ProductController - HttpURLConnection with resourse https://api.predic8.de/shop/v2/vendors/1 created.
+2024-04-03 20:37:15.396 [main] INFO  c.e.m.controller.ProductController - HttpURLConnection with resourse https://api.predic8.de/shop/v2/products/10 created.
+2024-04-03 20:37:15.455 [main] INFO  c.e.m.controller.ProductController - HttpURLConnection with resourse https://api.predic8.de/shop/v2/vendors/3 created.
+2024-04-03 20:37:16.299 [main] INFO  o.s.b.a.e.web.EndpointLinksResolver - Exposing 1 endpoint(s) beneath base path '/actuator'
+2024-04-03 20:37:16.420 [main] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat started on port 8080 (http) with context path ''
+2024-04-03 20:37:16.450 [main] INFO  com.example.myapp.MyAppApplication - Started MyAppApplication in 8.419 seconds (process running for 9.264)
+2024-04-03 20:37:32.729 [http-nio-8080-exec-1] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2024-04-03 20:37:32.730 [http-nio-8080-exec-1] INFO  o.s.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+2024-04-03 20:37:32.733 [http-nio-8080-exec-1] INFO  o.s.web.servlet.DispatcherServlet - Completed initialization in 2 ms
+2024-04-03 20:37:46.346 [http-nio-8080-exec-5] WARN  o.s.web.servlet.PageNotFound - No mapping for GET /actuator/bean
+2024-04-03 20:37:46.349 [http-nio-8080-exec-5] WARN  o.s.web.servlet.PageNotFound - No endpoint GET /actuator/bean.
+2024-04-03 20:37:53.076 [http-nio-8080-exec-6] WARN  o.s.web.servlet.PageNotFound - No mapping for GET /bean
+2024-04-03 20:37:53.077 [http-nio-8080-exec-6] WARN  o.s.web.servlet.PageNotFound - No endpoint GET /bean.
+2024-04-03 20:38:02.149 [http-nio-8080-exec-7] WARN  o.s.web.servlet.PageNotFound - No mapping for GET /actuator/bean
+2024-04-03 20:38:02.149 [http-nio-8080-exec-7] WARN  o.s.web.servlet.PageNotFound - No endpoint GET /actuator/bean.
+2024-04-03 20:38:23.883 [http-nio-8080-exec-8] WARN  o.s.web.servlet.PageNotFound - No mapping for GET /actuator/beans
+2024-04-03 20:38:23.887 [http-nio-8080-exec-8] WARN  o.s.web.servlet.PageNotFound - No endpoint GET /actuator/beans.
+2024-04-03 20:38:35.248 [http-nio-8080-exec-9] WARN  o.s.web.servlet.PageNotFound - No mapping for GET /beans
+2024-04-03 20:38:35.249 [http-nio-8080-exec-9] WARN  o.s.web.servlet.PageNotFound - No endpoint GET /beans.
+2024-04-03 20:40:15.678 [main] INFO  com.example.myapp.MyAppApplication - Starting MyAppApplication using Java 20 with PID 6388 (C:\Users\Korisnik\Desktop\my-app\target\classes started by Korisnik in C:\Users\Korisnik\Desktop\my-app)
+2024-04-03 20:40:15.682 [main] INFO  com.example.myapp.MyAppApplication - No active profile set, falling back to 1 default profile: "default"
+2024-04-03 20:40:19.520 [main] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat initialized with port 8080 (http)
+2024-04-03 20:40:19.550 [main] INFO  o.a.catalina.core.StandardService - Starting service [Tomcat]
+2024-04-03 20:40:19.551 [main] INFO  o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/10.1.19]
+2024-04-03 20:40:19.706 [main] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2024-04-03 20:40:19.707 [main] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 3863 ms
+2024-04-03 20:40:20.438 [main] INFO  c.e.m.controller.ProductController - HttpURLConnection with resourse https://api.predic8.de/shop/v2/products/ created.
+2024-04-03 20:40:21.165 [main] INFO  c.e.m.controller.ProductController - HttpURLConnection with resourse https://api.predic8.de/shop/v2/products/1 created.
+2024-04-03 20:40:21.241 [main] INFO  c.e.m.controller.ProductController - HttpURLConnection with resourse https://api.predic8.de/shop/v2/vendors/1 created.
+2024-04-03 20:40:21.308 [main] INFO  c.e.m.controller.ProductController - HttpURLConnection with resourse https://api.predic8.de/shop/v2/products/2 created.
+2024-04-03 20:40:21.369 [main] INFO  c.e.m.controller.ProductController - HttpURLConnection with resourse https://api.predic8.de/shop/v2/vendors/2 created.
+2024-04-03 20:40:21.450 [main] INFO  c.e.m.controller.ProductController - HttpURLConnection with resourse https://api.predic8.de/shop/v2/products/3 created.
+2024-04-03 20:40:21.522 [main] INFO  c.e.m.controller.ProductController - HttpURLConnection with resourse https://api.predic8.de/shop/v2/vendors/2 created.
+2024-04-03 20:40:21.583 [main] INFO  c.e.m.controller.ProductController - HttpURLConnection with resourse https://api.predic8.de/shop/v2/products/4 created.
+2024-04-03 20:40:21.668 [main] INFO  c.e.m.controller.ProductController - HttpURLConnection with resourse https://api.predic8.de/shop/v2/vendors/3 created.
+2024-04-03 20:40:21.747 [main] INFO  c.e.m.controller.ProductController - HttpURLConnection with resourse https://api.predic8.de/shop/v2/products/5 created.
+2024-04-03 20:40:21.805 [main] INFO  c.e.m.controller.ProductController - HttpURLConnection with resourse https://api.predic8.de/shop/v2/vendors/1 created.
+2024-04-03 20:40:21.862 [main] INFO  c.e.m.controller.ProductController - HttpURLConnection with resourse https://api.predic8.de/shop/v2/products/6 created.
+2024-04-03 20:40:21.929 [main] INFO  c.e.m.controller.ProductController - HttpURLConnection with resourse https://api.predic8.de/shop/v2/vendors/3 created.
+2024-04-03 20:40:22.000 [main] INFO  c.e.m.controller.ProductController - HttpURLConnection with resourse https://api.predic8.de/shop/v2/products/7 created.
+2024-04-03 20:40:22.068 [main] INFO  c.e.m.controller.ProductController - HttpURLConnection with resourse https://api.predic8.de/shop/v2/vendors/1 created.
+2024-04-03 20:40:22.138 [main] INFO  c.e.m.controller.ProductController - HttpURLConnection with resourse https://api.predic8.de/shop/v2/products/8 created.
+2024-04-03 20:40:22.205 [main] INFO  c.e.m.controller.ProductController - HttpURLConnection with resourse https://api.predic8.de/shop/v2/vendors/2 created.
+2024-04-03 20:40:22.266 [main] INFO  c.e.m.controller.ProductController - HttpURLConnection with resourse https://api.predic8.de/shop/v2/products/9 created.
+2024-04-03 20:40:22.336 [main] INFO  c.e.m.controller.ProductController - HttpURLConnection with resourse https://api.predic8.de/shop/v2/vendors/1 created.
+2024-04-03 20:40:22.411 [main] INFO  c.e.m.controller.ProductController - HttpURLConnection with resourse https://api.predic8.de/shop/v2/products/10 created.
+2024-04-03 20:40:22.486 [main] INFO  c.e.m.controller.ProductController - HttpURLConnection with resourse https://api.predic8.de/shop/v2/vendors/3 created.
+2024-04-03 20:40:23.347 [main] INFO  o.s.b.a.e.web.EndpointLinksResolver - Exposing 2 endpoint(s) beneath base path '/actuator'
+2024-04-03 20:40:23.470 [main] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat started on port 8080 (http) with context path ''
+2024-04-03 20:40:23.498 [main] INFO  com.example.myapp.MyAppApplication - Started MyAppApplication in 9.176 seconds (process running for 9.975)
+2024-04-03 20:40:29.442 [http-nio-8080-exec-1] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2024-04-03 20:40:29.443 [http-nio-8080-exec-1] INFO  o.s.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+2024-04-03 20:40:29.444 [http-nio-8080-exec-1] INFO  o.s.web.servlet.DispatcherServlet - Completed initialization in 0 ms
+2024-04-03 20:46:23.428 [main] INFO  com.example.myapp.MyAppApplication - Starting MyAppApplication using Java 20 with PID 6176 (C:\Users\Korisnik\Desktop\my-app\target\classes started by Korisnik in C:\Users\Korisnik\Desktop\my-app)
+2024-04-03 20:46:23.432 [main] INFO  com.example.myapp.MyAppApplication - No active profile set, falling back to 1 default profile: "default"
+2024-04-03 20:46:26.729 [main] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat initialized with port 8080 (http)
+2024-04-03 20:46:26.757 [main] INFO  o.a.catalina.core.StandardService - Starting service [Tomcat]
+2024-04-03 20:46:26.759 [main] INFO  o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/10.1.19]
+2024-04-03 20:46:26.900 [main] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2024-04-03 20:46:26.901 [main] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 3374 ms
+2024-04-03 20:46:27.502 [main] INFO  c.e.m.controller.ProductController - HttpURLConnection with resourse https://api.predic8.de/shop/v2/products/ created.
+2024-04-03 20:46:28.248 [main] INFO  c.e.m.controller.ProductController - HttpURLConnection with resourse https://api.predic8.de/shop/v2/products/1 created.
+2024-04-03 20:46:28.330 [main] INFO  c.e.m.controller.ProductController - HttpURLConnection with resourse https://api.predic8.de/shop/v2/vendors/1 created.
+2024-04-03 20:46:28.407 [main] INFO  c.e.m.controller.ProductController - HttpURLConnection with resourse https://api.predic8.de/shop/v2/products/2 created.
+2024-04-03 20:46:28.477 [main] INFO  c.e.m.controller.ProductController - HttpURLConnection with resourse https://api.predic8.de/shop/v2/vendors/2 created.
+2024-04-03 20:46:28.547 [main] INFO  c.e.m.controller.ProductController - HttpURLConnection with resourse https://api.predic8.de/shop/v2/products/3 created.
+2024-04-03 20:46:28.612 [main] INFO  c.e.m.controller.ProductController - HttpURLConnection with resourse https://api.predic8.de/shop/v2/vendors/2 created.
+2024-04-03 20:46:28.667 [main] INFO  c.e.m.controller.ProductController - HttpURLConnection with resourse https://api.predic8.de/shop/v2/products/4 created.
+2024-04-03 20:46:28.734 [main] INFO  c.e.m.controller.ProductController - HttpURLConnection with resourse https://api.predic8.de/shop/v2/vendors/3 created.
+2024-04-03 20:46:28.793 [main] INFO  c.e.m.controller.ProductController - HttpURLConnection with resourse https://api.predic8.de/shop/v2/products/5 created.
+2024-04-03 20:46:28.866 [main] INFO  c.e.m.controller.ProductController - HttpURLConnection with resourse https://api.predic8.de/shop/v2/vendors/1 created.
+2024-04-03 20:46:28.952 [main] INFO  c.e.m.controller.ProductController - HttpURLConnection with resourse https://api.predic8.de/shop/v2/products/6 created.
+2024-04-03 20:46:29.008 [main] INFO  c.e.m.controller.ProductController - HttpURLConnection with resourse https://api.predic8.de/shop/v2/vendors/3 created.
+2024-04-03 20:46:29.070 [main] INFO  c.e.m.controller.ProductController - HttpURLConnection with resourse https://api.predic8.de/shop/v2/products/7 created.
+2024-04-03 20:46:29.141 [main] INFO  c.e.m.controller.ProductController - HttpURLConnection with resourse https://api.predic8.de/shop/v2/vendors/1 created.
+2024-04-03 20:46:29.209 [main] INFO  c.e.m.controller.ProductController - HttpURLConnection with resourse https://api.predic8.de/shop/v2/products/8 created.
+2024-04-03 20:46:29.266 [main] INFO  c.e.m.controller.ProductController - HttpURLConnection with resourse https://api.predic8.de/shop/v2/vendors/2 created.
+2024-04-03 20:46:29.320 [main] INFO  c.e.m.controller.ProductController - HttpURLConnection with resourse https://api.predic8.de/shop/v2/products/9 created.
+2024-04-03 20:46:29.393 [main] INFO  c.e.m.controller.ProductController - HttpURLConnection with resourse https://api.predic8.de/shop/v2/vendors/1 created.
+2024-04-03 20:46:29.459 [main] INFO  c.e.m.controller.ProductController - HttpURLConnection with resourse https://api.predic8.de/shop/v2/products/10 created.
+2024-04-03 20:46:29.524 [main] INFO  c.e.m.controller.ProductController - HttpURLConnection with resourse https://api.predic8.de/shop/v2/vendors/3 created.
+2024-04-03 20:46:30.385 [main] INFO  o.s.b.a.e.web.EndpointLinksResolver - Exposing 2 endpoint(s) beneath base path '/actuator'
+2024-04-03 20:46:30.531 [main] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat started on port 8080 (http) with context path ''
+2024-04-03 20:46:30.562 [main] INFO  com.example.myapp.MyAppApplication - Started MyAppApplication in 8.358 seconds (process running for 9.037)
+2024-04-03 20:48:43.076 [http-nio-8080-exec-1] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2024-04-03 20:48:43.078 [http-nio-8080-exec-1] INFO  o.s.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+2024-04-03 20:48:43.080 [http-nio-8080-exec-1] INFO  o.s.web.servlet.DispatcherServlet - Completed initialization in 2 ms
+2024-04-03 20:50:03.750 [main] INFO  com.example.myapp.MyAppApplication - Starting MyAppApplication using Java 20 with PID 10460 (C:\Users\Korisnik\Desktop\my-app\target\classes started by Korisnik in C:\Users\Korisnik\Desktop\my-app)
+2024-04-03 20:50:03.755 [main] INFO  com.example.myapp.MyAppApplication - No active profile set, falling back to 1 default profile: "default"
+2024-04-03 20:50:06.953 [main] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat initialized with port 8080 (http)
+2024-04-03 20:50:06.985 [main] INFO  o.a.catalina.core.StandardService - Starting service [Tomcat]
+2024-04-03 20:50:06.987 [main] INFO  o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/10.1.19]
+2024-04-03 20:50:07.134 [main] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2024-04-03 20:50:07.135 [main] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 3237 ms
+2024-04-03 20:50:07.703 [main] INFO  c.e.m.controller.ProductController - HttpURLConnection with resourse https://api.predic8.de/shop/v2/products/ created.
+2024-04-03 20:50:08.509 [main] INFO  c.e.m.controller.ProductController - HttpURLConnection with resourse https://api.predic8.de/shop/v2/products/1 created.
+2024-04-03 20:50:08.579 [main] INFO  c.e.m.controller.ProductController - HttpURLConnection with resourse https://api.predic8.de/shop/v2/vendors/1 created.
+2024-04-03 20:50:08.663 [main] INFO  c.e.m.controller.ProductController - HttpURLConnection with resourse https://api.predic8.de/shop/v2/products/2 created.
+2024-04-03 20:50:08.738 [main] INFO  c.e.m.controller.ProductController - HttpURLConnection with resourse https://api.predic8.de/shop/v2/vendors/2 created.
+2024-04-03 20:50:08.819 [main] INFO  c.e.m.controller.ProductController - HttpURLConnection with resourse https://api.predic8.de/shop/v2/products/3 created.
+2024-04-03 20:50:08.901 [main] INFO  c.e.m.controller.ProductController - HttpURLConnection with resourse https://api.predic8.de/shop/v2/vendors/2 created.
+2024-04-03 20:50:08.965 [main] INFO  c.e.m.controller.ProductController - HttpURLConnection with resourse https://api.predic8.de/shop/v2/products/4 created.
+2024-04-03 20:50:09.029 [main] INFO  c.e.m.controller.ProductController - HttpURLConnection with resourse https://api.predic8.de/shop/v2/vendors/3 created.
+2024-04-03 20:50:09.106 [main] INFO  c.e.m.controller.ProductController - HttpURLConnection with resourse https://api.predic8.de/shop/v2/products/5 created.
+2024-04-03 20:50:09.188 [main] INFO  c.e.m.controller.ProductController - HttpURLConnection with resourse https://api.predic8.de/shop/v2/vendors/1 created.
+2024-04-03 20:50:09.261 [main] INFO  c.e.m.controller.ProductController - HttpURLConnection with resourse https://api.predic8.de/shop/v2/products/6 created.
+2024-04-03 20:50:09.343 [main] INFO  c.e.m.controller.ProductController - HttpURLConnection with resourse https://api.predic8.de/shop/v2/vendors/3 created.
+2024-04-03 20:50:09.404 [main] INFO  c.e.m.controller.ProductController - HttpURLConnection with resourse https://api.predic8.de/shop/v2/products/7 created.
+2024-04-03 20:50:09.459 [main] INFO  c.e.m.controller.ProductController - HttpURLConnection with resourse https://api.predic8.de/shop/v2/vendors/1 created.
+2024-04-03 20:50:09.540 [main] INFO  c.e.m.controller.ProductController - HttpURLConnection with resourse https://api.predic8.de/shop/v2/products/8 created.
+2024-04-03 20:50:09.596 [main] INFO  c.e.m.controller.ProductController - HttpURLConnection with resourse https://api.predic8.de/shop/v2/vendors/2 created.
+2024-04-03 20:50:09.656 [main] INFO  c.e.m.controller.ProductController - HttpURLConnection with resourse https://api.predic8.de/shop/v2/products/9 created.
+2024-04-03 20:50:09.726 [main] INFO  c.e.m.controller.ProductController - HttpURLConnection with resourse https://api.predic8.de/shop/v2/vendors/1 created.
+2024-04-03 20:50:09.793 [main] INFO  c.e.m.controller.ProductController - HttpURLConnection with resourse https://api.predic8.de/shop/v2/products/10 created.
+2024-04-03 20:50:09.865 [main] INFO  c.e.m.controller.ProductController - HttpURLConnection with resourse https://api.predic8.de/shop/v2/vendors/3 created.
+2024-04-03 20:50:10.823 [main] INFO  o.s.b.a.e.web.EndpointLinksResolver - Exposing 2 endpoint(s) beneath base path '/actuator'
+2024-04-03 20:50:10.966 [main] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat started on port 8080 (http) with context path ''
+2024-04-03 20:50:10.992 [main] INFO  com.example.myapp.MyAppApplication - Started MyAppApplication in 8.657 seconds (process running for 9.597)
+2024-04-03 20:50:39.716 [http-nio-8080-exec-1] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2024-04-03 20:50:39.717 [http-nio-8080-exec-1] INFO  o.s.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+2024-04-03 20:50:39.719 [http-nio-8080-exec-1] INFO  o.s.web.servlet.DispatcherServlet - Completed initialization in 1 ms
+2024-04-03 20:56:01.102 [main] INFO  com.example.myapp.MyAppApplication - Starting MyAppApplication using Java 20 with PID 17204 (C:\Users\Korisnik\Desktop\my-app\target\classes started by Korisnik in C:\Users\Korisnik\Desktop\my-app)
+2024-04-03 20:56:01.107 [main] INFO  com.example.myapp.MyAppApplication - No active profile set, falling back to 1 default profile: "default"
+2024-04-03 20:56:05.026 [main] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat initialized with port 8080 (http)
+2024-04-03 20:56:05.060 [main] INFO  o.a.catalina.core.StandardService - Starting service [Tomcat]
+2024-04-03 20:56:05.062 [main] INFO  o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/10.1.19]
+2024-04-03 20:56:05.265 [main] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2024-04-03 20:56:05.272 [main] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 4054 ms
+2024-04-03 20:56:06.125 [main] INFO  c.e.m.controller.ProductController - HttpURLConnection with resourse https://api.predic8.de/shop/v2/products/ created.
+2024-04-03 20:56:07.011 [main] INFO  c.e.m.controller.ProductController - HttpURLConnection with resourse https://api.predic8.de/shop/v2/products/1 created.
+2024-04-03 20:56:07.089 [main] INFO  c.e.m.controller.ProductController - HttpURLConnection with resourse https://api.predic8.de/shop/v2/vendors/1 created.
+2024-04-03 20:56:07.163 [main] INFO  c.e.m.controller.ProductController - HttpURLConnection with resourse https://api.predic8.de/shop/v2/products/2 created.
+2024-04-03 20:56:07.240 [main] INFO  c.e.m.controller.ProductController - HttpURLConnection with resourse https://api.predic8.de/shop/v2/vendors/2 created.
+2024-04-03 20:56:07.307 [main] INFO  c.e.m.controller.ProductController - HttpURLConnection with resourse https://api.predic8.de/shop/v2/products/3 created.
+2024-04-03 20:56:07.370 [main] INFO  c.e.m.controller.ProductController - HttpURLConnection with resourse https://api.predic8.de/shop/v2/vendors/2 created.
+2024-04-03 20:56:07.430 [main] INFO  c.e.m.controller.ProductController - HttpURLConnection with resourse https://api.predic8.de/shop/v2/products/4 created.
+2024-04-03 20:56:07.492 [main] INFO  c.e.m.controller.ProductController - HttpURLConnection with resourse https://api.predic8.de/shop/v2/vendors/3 created.
+2024-04-03 20:56:07.570 [main] INFO  c.e.m.controller.ProductController - HttpURLConnection with resourse https://api.predic8.de/shop/v2/products/5 created.
+2024-04-03 20:56:07.638 [main] INFO  c.e.m.controller.ProductController - HttpURLConnection with resourse https://api.predic8.de/shop/v2/vendors/1 created.
+2024-04-03 20:56:07.709 [main] INFO  c.e.m.controller.ProductController - HttpURLConnection with resourse https://api.predic8.de/shop/v2/products/6 created.
+2024-04-03 20:56:07.775 [main] INFO  c.e.m.controller.ProductController - HttpURLConnection with resourse https://api.predic8.de/shop/v2/vendors/3 created.
+2024-04-03 20:56:07.840 [main] INFO  c.e.m.controller.ProductController - HttpURLConnection with resourse https://api.predic8.de/shop/v2/products/7 created.
+2024-04-03 20:56:07.909 [main] INFO  c.e.m.controller.ProductController - HttpURLConnection with resourse https://api.predic8.de/shop/v2/vendors/1 created.
+2024-04-03 20:56:07.974 [main] INFO  c.e.m.controller.ProductController - HttpURLConnection with resourse https://api.predic8.de/shop/v2/products/8 created.
+2024-04-03 20:56:08.056 [main] INFO  c.e.m.controller.ProductController - HttpURLConnection with resourse https://api.predic8.de/shop/v2/vendors/2 created.
+2024-04-03 20:56:08.137 [main] INFO  c.e.m.controller.ProductController - HttpURLConnection with resourse https://api.predic8.de/shop/v2/products/9 created.
+2024-04-03 20:56:08.208 [main] INFO  c.e.m.controller.ProductController - HttpURLConnection with resourse https://api.predic8.de/shop/v2/vendors/1 created.
+2024-04-03 20:56:08.279 [main] INFO  c.e.m.controller.ProductController - HttpURLConnection with resourse https://api.predic8.de/shop/v2/products/10 created.
+2024-04-03 20:56:08.334 [main] INFO  c.e.m.controller.ProductController - HttpURLConnection with resourse https://api.predic8.de/shop/v2/vendors/3 created.
+2024-04-03 20:56:09.294 [main] INFO  o.s.b.a.e.web.EndpointLinksResolver - Exposing 2 endpoint(s) beneath base path '/actuator'
+2024-04-03 20:56:09.440 [main] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat started on port 8080 (http) with context path ''
+2024-04-03 20:56:09.471 [main] INFO  com.example.myapp.MyAppApplication - Started MyAppApplication in 9.777 seconds (process running for 10.599)
+2024-04-03 20:56:23.796 [http-nio-8080-exec-1] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2024-04-03 20:56:23.796 [http-nio-8080-exec-1] INFO  o.s.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+2024-04-03 20:56:23.800 [http-nio-8080-exec-1] INFO  o.s.web.servlet.DispatcherServlet - Completed initialization in 3 ms
+2024-04-03 22:17:06.629 [main] INFO  com.example.myapp.MyAppApplication - Starting MyAppApplication using Java 20 with PID 8596 (C:\Users\Korisnik\Desktop\my-app\target\classes started by Korisnik in C:\Users\Korisnik\Desktop\my-app)
+2024-04-03 22:17:06.635 [main] INFO  com.example.myapp.MyAppApplication - No active profile set, falling back to 1 default profile: "default"
+2024-04-03 22:17:10.437 [main] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat initialized with port 8080 (http)
+2024-04-03 22:17:10.473 [main] INFO  o.a.catalina.core.StandardService - Starting service [Tomcat]
+2024-04-03 22:17:10.473 [main] INFO  o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/10.1.19]
+2024-04-03 22:17:10.755 [main] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2024-04-03 22:17:10.757 [main] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 4006 ms
+2024-04-03 22:17:11.695 [main] INFO  c.e.m.controller.ProductController - HttpURLConnection with resourse https://api.predic8.de/shop/v2/products/ created.
+2024-04-03 22:17:12.959 [main] INFO  c.e.m.controller.ProductController - HttpURLConnection with resourse https://api.predic8.de/shop/v2/products/1 created.
+2024-04-03 22:17:13.024 [main] INFO  c.e.m.controller.ProductController - HttpURLConnection with resourse https://api.predic8.de/shop/v2/vendors/1 created.
+2024-04-03 22:17:13.101 [main] INFO  c.e.m.controller.ProductController - HttpURLConnection with resourse https://api.predic8.de/shop/v2/products/2 created.
+2024-04-03 22:17:13.167 [main] INFO  c.e.m.controller.ProductController - HttpURLConnection with resourse https://api.predic8.de/shop/v2/vendors/2 created.
+2024-04-03 22:17:13.236 [main] INFO  c.e.m.controller.ProductController - HttpURLConnection with resourse https://api.predic8.de/shop/v2/products/3 created.
+2024-04-03 22:17:13.307 [main] INFO  c.e.m.controller.ProductController - HttpURLConnection with resourse https://api.predic8.de/shop/v2/vendors/2 created.
+2024-04-03 22:17:13.366 [main] INFO  c.e.m.controller.ProductController - HttpURLConnection with resourse https://api.predic8.de/shop/v2/products/4 created.
+2024-04-03 22:17:13.440 [main] INFO  c.e.m.controller.ProductController - HttpURLConnection with resourse https://api.predic8.de/shop/v2/vendors/3 created.
+2024-04-03 22:17:13.525 [main] INFO  c.e.m.controller.ProductController - HttpURLConnection with resourse https://api.predic8.de/shop/v2/products/5 created.
+2024-04-03 22:17:13.600 [main] INFO  c.e.m.controller.ProductController - HttpURLConnection with resourse https://api.predic8.de/shop/v2/vendors/1 created.
+2024-04-03 22:17:13.671 [main] INFO  c.e.m.controller.ProductController - HttpURLConnection with resourse https://api.predic8.de/shop/v2/products/6 created.
+2024-04-03 22:17:13.756 [main] INFO  c.e.m.controller.ProductController - HttpURLConnection with resourse https://api.predic8.de/shop/v2/vendors/3 created.
+2024-04-03 22:17:13.831 [main] INFO  c.e.m.controller.ProductController - HttpURLConnection with resourse https://api.predic8.de/shop/v2/products/7 created.
+2024-04-03 22:17:13.910 [main] INFO  c.e.m.controller.ProductController - HttpURLConnection with resourse https://api.predic8.de/shop/v2/vendors/1 created.
+2024-04-03 22:17:13.983 [main] INFO  c.e.m.controller.ProductController - HttpURLConnection with resourse https://api.predic8.de/shop/v2/products/8 created.
+2024-04-03 22:17:14.062 [main] INFO  c.e.m.controller.ProductController - HttpURLConnection with resourse https://api.predic8.de/shop/v2/vendors/2 created.
+2024-04-03 22:17:14.132 [main] INFO  c.e.m.controller.ProductController - HttpURLConnection with resourse https://api.predic8.de/shop/v2/products/9 created.
+2024-04-03 22:17:14.191 [main] INFO  c.e.m.controller.ProductController - HttpURLConnection with resourse https://api.predic8.de/shop/v2/vendors/1 created.
+2024-04-03 22:17:14.250 [main] INFO  c.e.m.controller.ProductController - HttpURLConnection with resourse https://api.predic8.de/shop/v2/products/10 created.
+2024-04-03 22:17:14.318 [main] INFO  c.e.m.controller.ProductController - HttpURLConnection with resourse https://api.predic8.de/shop/v2/vendors/3 created.
+2024-04-03 22:17:15.166 [main] INFO  o.s.b.a.e.web.EndpointLinksResolver - Exposing 2 endpoint(s) beneath base path '/actuator'
+2024-04-03 22:17:15.375 [main] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat started on port 8080 (http) with context path ''
+2024-04-03 22:17:15.411 [main] INFO  com.example.myapp.MyAppApplication - Started MyAppApplication in 10.249 seconds (process running for 13.953)
+2024-04-03 22:21:42.298 [main] INFO  com.example.myapp.MyAppApplication - Starting MyAppApplication using Java 20 with PID 3232 (C:\Users\Korisnik\Desktop\my-app\target\classes started by Korisnik in C:\Users\Korisnik\Desktop\my-app)
+2024-04-03 22:21:42.302 [main] INFO  com.example.myapp.MyAppApplication - No active profile set, falling back to 1 default profile: "default"
+2024-04-03 22:21:44.586 [main] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat initialized with port 8080 (http)
+2024-04-03 22:21:44.603 [main] INFO  o.a.catalina.core.StandardService - Starting service [Tomcat]
+2024-04-03 22:21:44.603 [main] INFO  o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/10.1.19]
+2024-04-03 22:21:44.681 [main] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2024-04-03 22:21:44.682 [main] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 2301 ms
+2024-04-03 22:21:45.257 [main] INFO  c.e.m.controller.ProductController - HttpURLConnection with resourse https://api.predic8.de/shop/v2/products/ created.
+2024-04-03 22:21:45.775 [main] INFO  c.e.m.controller.ProductController - HttpURLConnection with resourse https://api.predic8.de/shop/v2/products/1 created.
+2024-04-03 22:21:45.858 [main] INFO  c.e.m.controller.ProductController - HttpURLConnection with resourse https://api.predic8.de/shop/v2/vendors/1 created.
+2024-04-03 22:21:45.939 [main] INFO  c.e.m.controller.ProductController - HttpURLConnection with resourse https://api.predic8.de/shop/v2/products/2 created.
+2024-04-03 22:21:46.013 [main] INFO  c.e.m.controller.ProductController - HttpURLConnection with resourse https://api.predic8.de/shop/v2/vendors/2 created.
+2024-04-03 22:21:46.100 [main] INFO  c.e.m.controller.ProductController - HttpURLConnection with resourse https://api.predic8.de/shop/v2/products/3 created.
+2024-04-03 22:21:46.175 [main] INFO  c.e.m.controller.ProductController - HttpURLConnection with resourse https://api.predic8.de/shop/v2/vendors/2 created.
+2024-04-03 22:21:46.250 [main] INFO  c.e.m.controller.ProductController - HttpURLConnection with resourse https://api.predic8.de/shop/v2/products/4 created.
+2024-04-03 22:21:46.321 [main] INFO  c.e.m.controller.ProductController - HttpURLConnection with resourse https://api.predic8.de/shop/v2/vendors/3 created.
+2024-04-03 22:21:46.382 [main] INFO  c.e.m.controller.ProductController - HttpURLConnection with resourse https://api.predic8.de/shop/v2/products/5 created.
+2024-04-03 22:21:46.451 [main] INFO  c.e.m.controller.ProductController - HttpURLConnection with resourse https://api.predic8.de/shop/v2/vendors/1 created.
+2024-04-03 22:21:46.522 [main] INFO  c.e.m.controller.ProductController - HttpURLConnection with resourse https://api.predic8.de/shop/v2/products/6 created.
+2024-04-03 22:21:46.595 [main] INFO  c.e.m.controller.ProductController - HttpURLConnection with resourse https://api.predic8.de/shop/v2/vendors/3 created.
+2024-04-03 22:21:46.668 [main] INFO  c.e.m.controller.ProductController - HttpURLConnection with resourse https://api.predic8.de/shop/v2/products/7 created.
+2024-04-03 22:21:46.738 [main] INFO  c.e.m.controller.ProductController - HttpURLConnection with resourse https://api.predic8.de/shop/v2/vendors/1 created.
+2024-04-03 22:21:46.798 [main] INFO  c.e.m.controller.ProductController - HttpURLConnection with resourse https://api.predic8.de/shop/v2/products/8 created.
+2024-04-03 22:21:46.879 [main] INFO  c.e.m.controller.ProductController - HttpURLConnection with resourse https://api.predic8.de/shop/v2/vendors/2 created.
+2024-04-03 22:21:46.967 [main] INFO  c.e.m.controller.ProductController - HttpURLConnection with resourse https://api.predic8.de/shop/v2/products/9 created.
+2024-04-03 22:21:47.050 [main] INFO  c.e.m.controller.ProductController - HttpURLConnection with resourse https://api.predic8.de/shop/v2/vendors/1 created.
+2024-04-03 22:21:47.123 [main] INFO  c.e.m.controller.ProductController - HttpURLConnection with resourse https://api.predic8.de/shop/v2/products/10 created.
+2024-04-03 22:21:47.187 [main] INFO  c.e.m.controller.ProductController - HttpURLConnection with resourse https://api.predic8.de/shop/v2/vendors/3 created.
+2024-04-03 22:21:47.788 [main] INFO  o.s.b.a.e.web.EndpointLinksResolver - Exposing 2 endpoint(s) beneath base path '/actuator'
+2024-04-03 22:21:47.896 [main] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat started on port 8080 (http) with context path ''
+2024-04-03 22:21:47.921 [main] INFO  com.example.myapp.MyAppApplication - Started MyAppApplication in 6.549 seconds (process running for 7.173)
+2024-04-03 22:22:16.910 [http-nio-8080-exec-1] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2024-04-03 22:22:16.912 [http-nio-8080-exec-1] INFO  o.s.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+2024-04-03 22:22:16.915 [http-nio-8080-exec-1] INFO  o.s.web.servlet.DispatcherServlet - Completed initialization in 2 ms
+2024-04-03 22:22:16.984 [http-nio-8080-exec-1] ERROR o.a.c.c.C.[.[.[.[dispatcherServlet] - Servlet.service() for servlet [dispatcherServlet] in context with path [] threw exception [Request processing failed: java.lang.IllegalArgumentException: When allowCredentials is true, allowedOrigins cannot contain the special value "*" since that cannot be set on the "Access-Control-Allow-Origin" response header. To allow credentials to a set of origins, list them explicitly or consider using "allowedOriginPatterns" instead.] with root cause
+java.lang.IllegalArgumentException: When allowCredentials is true, allowedOrigins cannot contain the special value "*" since that cannot be set on the "Access-Control-Allow-Origin" response header. To allow credentials to a set of origins, list them explicitly or consider using "allowedOriginPatterns" instead.
+	at org.springframework.web.cors.CorsConfiguration.validateAllowCredentials(CorsConfiguration.java:572)
+	at org.springframework.web.servlet.handler.AbstractHandlerMapping.getHandler(AbstractHandlerMapping.java:542)
+	at org.springframework.web.servlet.DispatcherServlet.getHandler(DispatcherServlet.java:1283)
+	at org.springframework.web.servlet.DispatcherServlet.doDispatch(DispatcherServlet.java:1065)
+	at org.springframework.web.servlet.DispatcherServlet.doService(DispatcherServlet.java:979)
+	at org.springframework.web.servlet.FrameworkServlet.processRequest(FrameworkServlet.java:1014)
+	at org.springframework.web.servlet.FrameworkServlet.doGet(FrameworkServlet.java:903)
+	at jakarta.servlet.http.HttpServlet.service(HttpServlet.java:564)
+	at org.springframework.web.servlet.FrameworkServlet.service(FrameworkServlet.java:885)
+	at jakarta.servlet.http.HttpServlet.service(HttpServlet.java:658)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:205)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:149)
+	at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:51)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:174)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:149)
+	at org.springframework.web.filter.ServerHttpObservationFilter.doFilterInternal(ServerHttpObservationFilter.java:109)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:116)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:174)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:149)
+	at org.springframework.web.filter.CharacterEncodingFilter.doFilterInternal(CharacterEncodingFilter.java:201)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:116)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:174)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:149)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:167)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:90)
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:482)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:115)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:93)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:74)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:344)
+	at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:391)
+	at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:63)
+	at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:896)
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1744)
+	at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:52)
+	at org.apache.tomcat.util.threads.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1191)
+	at org.apache.tomcat.util.threads.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:659)
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:63)
+	at java.base/java.lang.Thread.run(Thread.java:1623)
+2024-04-03 22:22:17.013 [http-nio-8080-exec-1] ERROR o.a.c.c.C.[.[.[.[dispatcherServlet] - Servlet.service() for servlet [dispatcherServlet] threw exception
+java.lang.IllegalArgumentException: When allowCredentials is true, allowedOrigins cannot contain the special value "*" since that cannot be set on the "Access-Control-Allow-Origin" response header. To allow credentials to a set of origins, list them explicitly or consider using "allowedOriginPatterns" instead.
+	at org.springframework.web.cors.CorsConfiguration.validateAllowCredentials(CorsConfiguration.java:572)
+	at org.springframework.web.servlet.handler.AbstractHandlerMapping.getHandler(AbstractHandlerMapping.java:542)
+	at org.springframework.web.servlet.DispatcherServlet.getHandler(DispatcherServlet.java:1283)
+	at org.springframework.web.servlet.DispatcherServlet.doDispatch(DispatcherServlet.java:1065)
+	at org.springframework.web.servlet.DispatcherServlet.doService(DispatcherServlet.java:979)
+	at org.springframework.web.servlet.FrameworkServlet.processRequest(FrameworkServlet.java:1014)
+	at org.springframework.web.servlet.FrameworkServlet.doGet(FrameworkServlet.java:903)
+	at jakarta.servlet.http.HttpServlet.service(HttpServlet.java:564)
+	at org.springframework.web.servlet.FrameworkServlet.service(FrameworkServlet.java:885)
+	at jakarta.servlet.http.HttpServlet.service(HttpServlet.java:658)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:205)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:149)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:101)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:174)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:149)
+	at org.apache.catalina.core.ApplicationDispatcher.invoke(ApplicationDispatcher.java:642)
+	at org.apache.catalina.core.ApplicationDispatcher.processRequest(ApplicationDispatcher.java:410)
+	at org.apache.catalina.core.ApplicationDispatcher.doForward(ApplicationDispatcher.java:340)
+	at org.apache.catalina.core.ApplicationDispatcher.forward(ApplicationDispatcher.java:277)
+	at org.apache.catalina.core.StandardHostValve.custom(StandardHostValve.java:362)
+	at org.apache.catalina.core.StandardHostValve.status(StandardHostValve.java:222)
+	at org.apache.catalina.core.StandardHostValve.throwable(StandardHostValve.java:308)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:149)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:93)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:74)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:344)
+	at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:391)
+	at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:63)
+	at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:896)
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1744)
+	at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:52)
+	at org.apache.tomcat.util.threads.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1191)
+	at org.apache.tomcat.util.threads.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:659)
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:63)
+	at java.base/java.lang.Thread.run(Thread.java:1623)
+2024-04-03 22:22:17.016 [http-nio-8080-exec-1] ERROR o.a.c.c.C.[Tomcat].[localhost] - Exception Processing [ErrorPage[errorCode=0, location=/error]]
+jakarta.servlet.ServletException: Request processing failed: java.lang.IllegalArgumentException: When allowCredentials is true, allowedOrigins cannot contain the special value "*" since that cannot be set on the "Access-Control-Allow-Origin" response header. To allow credentials to a set of origins, list them explicitly or consider using "allowedOriginPatterns" instead.
+	at org.springframework.web.servlet.FrameworkServlet.processRequest(FrameworkServlet.java:1022)
+	at org.springframework.web.servlet.FrameworkServlet.doGet(FrameworkServlet.java:903)
+	at jakarta.servlet.http.HttpServlet.service(HttpServlet.java:564)
+	at org.springframework.web.servlet.FrameworkServlet.service(FrameworkServlet.java:885)
+	at jakarta.servlet.http.HttpServlet.service(HttpServlet.java:658)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:205)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:149)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:101)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:174)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:149)
+	at org.apache.catalina.core.ApplicationDispatcher.invoke(ApplicationDispatcher.java:642)
+	at org.apache.catalina.core.ApplicationDispatcher.processRequest(ApplicationDispatcher.java:410)
+	at org.apache.catalina.core.ApplicationDispatcher.doForward(ApplicationDispatcher.java:340)
+	at org.apache.catalina.core.ApplicationDispatcher.forward(ApplicationDispatcher.java:277)
+	at org.apache.catalina.core.StandardHostValve.custom(StandardHostValve.java:362)
+	at org.apache.catalina.core.StandardHostValve.status(StandardHostValve.java:222)
+	at org.apache.catalina.core.StandardHostValve.throwable(StandardHostValve.java:308)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:149)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:93)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:74)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:344)
+	at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:391)
+	at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:63)
+	at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:896)
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1744)
+	at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:52)
+	at org.apache.tomcat.util.threads.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1191)
+	at org.apache.tomcat.util.threads.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:659)
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:63)
+	at java.base/java.lang.Thread.run(Thread.java:1623)
+Caused by: java.lang.IllegalArgumentException: When allowCredentials is true, allowedOrigins cannot contain the special value "*" since that cannot be set on the "Access-Control-Allow-Origin" response header. To allow credentials to a set of origins, list them explicitly or consider using "allowedOriginPatterns" instead.
+	at org.springframework.web.cors.CorsConfiguration.validateAllowCredentials(CorsConfiguration.java:572)
+	at org.springframework.web.servlet.handler.AbstractHandlerMapping.getHandler(AbstractHandlerMapping.java:542)
+	at org.springframework.web.servlet.DispatcherServlet.getHandler(DispatcherServlet.java:1283)
+	at org.springframework.web.servlet.DispatcherServlet.doDispatch(DispatcherServlet.java:1065)
+	at org.springframework.web.servlet.DispatcherServlet.doService(DispatcherServlet.java:979)
+	at org.springframework.web.servlet.FrameworkServlet.processRequest(FrameworkServlet.java:1014)
+	... 29 common frames omitted
+2024-04-03 22:22:17.045 [http-nio-8080-exec-2] ERROR o.a.c.c.C.[.[.[.[dispatcherServlet] - Servlet.service() for servlet [dispatcherServlet] in context with path [] threw exception [Request processing failed: java.lang.IllegalArgumentException: When allowCredentials is true, allowedOrigins cannot contain the special value "*" since that cannot be set on the "Access-Control-Allow-Origin" response header. To allow credentials to a set of origins, list them explicitly or consider using "allowedOriginPatterns" instead.] with root cause
+java.lang.IllegalArgumentException: When allowCredentials is true, allowedOrigins cannot contain the special value "*" since that cannot be set on the "Access-Control-Allow-Origin" response header. To allow credentials to a set of origins, list them explicitly or consider using "allowedOriginPatterns" instead.
+	at org.springframework.web.cors.CorsConfiguration.validateAllowCredentials(CorsConfiguration.java:572)
+	at org.springframework.web.servlet.handler.AbstractHandlerMapping.getHandler(AbstractHandlerMapping.java:542)
+	at org.springframework.web.servlet.DispatcherServlet.getHandler(DispatcherServlet.java:1283)
+	at org.springframework.web.servlet.DispatcherServlet.doDispatch(DispatcherServlet.java:1065)
+	at org.springframework.web.servlet.DispatcherServlet.doService(DispatcherServlet.java:979)
+	at org.springframework.web.servlet.FrameworkServlet.processRequest(FrameworkServlet.java:1014)
+	at org.springframework.web.servlet.FrameworkServlet.doGet(FrameworkServlet.java:903)
+	at jakarta.servlet.http.HttpServlet.service(HttpServlet.java:564)
+	at org.springframework.web.servlet.FrameworkServlet.service(FrameworkServlet.java:885)
+	at jakarta.servlet.http.HttpServlet.service(HttpServlet.java:658)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:205)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:149)
+	at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:51)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:174)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:149)
+	at org.springframework.web.filter.ServerHttpObservationFilter.doFilterInternal(ServerHttpObservationFilter.java:109)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:116)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:174)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:149)
+	at org.springframework.web.filter.CharacterEncodingFilter.doFilterInternal(CharacterEncodingFilter.java:201)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:116)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:174)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:149)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:167)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:90)
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:482)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:115)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:93)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:74)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:344)
+	at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:391)
+	at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:63)
+	at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:896)
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1744)
+	at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:52)
+	at org.apache.tomcat.util.threads.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1191)
+	at org.apache.tomcat.util.threads.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:659)
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:63)
+	at java.base/java.lang.Thread.run(Thread.java:1623)
+2024-04-03 22:22:17.048 [http-nio-8080-exec-2] ERROR o.a.c.c.C.[.[.[.[dispatcherServlet] - Servlet.service() for servlet [dispatcherServlet] threw exception
+java.lang.IllegalArgumentException: When allowCredentials is true, allowedOrigins cannot contain the special value "*" since that cannot be set on the "Access-Control-Allow-Origin" response header. To allow credentials to a set of origins, list them explicitly or consider using "allowedOriginPatterns" instead.
+	at org.springframework.web.cors.CorsConfiguration.validateAllowCredentials(CorsConfiguration.java:572)
+	at org.springframework.web.servlet.handler.AbstractHandlerMapping.getHandler(AbstractHandlerMapping.java:542)
+	at org.springframework.web.servlet.DispatcherServlet.getHandler(DispatcherServlet.java:1283)
+	at org.springframework.web.servlet.DispatcherServlet.doDispatch(DispatcherServlet.java:1065)
+	at org.springframework.web.servlet.DispatcherServlet.doService(DispatcherServlet.java:979)
+	at org.springframework.web.servlet.FrameworkServlet.processRequest(FrameworkServlet.java:1014)
+	at org.springframework.web.servlet.FrameworkServlet.doGet(FrameworkServlet.java:903)
+	at jakarta.servlet.http.HttpServlet.service(HttpServlet.java:564)
+	at org.springframework.web.servlet.FrameworkServlet.service(FrameworkServlet.java:885)
+	at jakarta.servlet.http.HttpServlet.service(HttpServlet.java:658)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:205)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:149)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:101)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:174)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:149)
+	at org.apache.catalina.core.ApplicationDispatcher.invoke(ApplicationDispatcher.java:642)
+	at org.apache.catalina.core.ApplicationDispatcher.processRequest(ApplicationDispatcher.java:410)
+	at org.apache.catalina.core.ApplicationDispatcher.doForward(ApplicationDispatcher.java:340)
+	at org.apache.catalina.core.ApplicationDispatcher.forward(ApplicationDispatcher.java:277)
+	at org.apache.catalina.core.StandardHostValve.custom(StandardHostValve.java:362)
+	at org.apache.catalina.core.StandardHostValve.status(StandardHostValve.java:222)
+	at org.apache.catalina.core.StandardHostValve.throwable(StandardHostValve.java:308)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:149)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:93)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:74)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:344)
+	at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:391)
+	at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:63)
+	at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:896)
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1744)
+	at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:52)
+	at org.apache.tomcat.util.threads.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1191)
+	at org.apache.tomcat.util.threads.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:659)
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:63)
+	at java.base/java.lang.Thread.run(Thread.java:1623)
+2024-04-03 22:22:17.049 [http-nio-8080-exec-2] ERROR o.a.c.c.C.[Tomcat].[localhost] - Exception Processing [ErrorPage[errorCode=0, location=/error]]
+jakarta.servlet.ServletException: Request processing failed: java.lang.IllegalArgumentException: When allowCredentials is true, allowedOrigins cannot contain the special value "*" since that cannot be set on the "Access-Control-Allow-Origin" response header. To allow credentials to a set of origins, list them explicitly or consider using "allowedOriginPatterns" instead.
+	at org.springframework.web.servlet.FrameworkServlet.processRequest(FrameworkServlet.java:1022)
+	at org.springframework.web.servlet.FrameworkServlet.doGet(FrameworkServlet.java:903)
+	at jakarta.servlet.http.HttpServlet.service(HttpServlet.java:564)
+	at org.springframework.web.servlet.FrameworkServlet.service(FrameworkServlet.java:885)
+	at jakarta.servlet.http.HttpServlet.service(HttpServlet.java:658)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:205)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:149)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:101)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:174)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:149)
+	at org.apache.catalina.core.ApplicationDispatcher.invoke(ApplicationDispatcher.java:642)
+	at org.apache.catalina.core.ApplicationDispatcher.processRequest(ApplicationDispatcher.java:410)
+	at org.apache.catalina.core.ApplicationDispatcher.doForward(ApplicationDispatcher.java:340)
+	at org.apache.catalina.core.ApplicationDispatcher.forward(ApplicationDispatcher.java:277)
+	at org.apache.catalina.core.StandardHostValve.custom(StandardHostValve.java:362)
+	at org.apache.catalina.core.StandardHostValve.status(StandardHostValve.java:222)
+	at org.apache.catalina.core.StandardHostValve.throwable(StandardHostValve.java:308)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:149)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:93)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:74)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:344)
+	at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:391)
+	at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:63)
+	at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:896)
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1744)
+	at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:52)
+	at org.apache.tomcat.util.threads.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1191)
+	at org.apache.tomcat.util.threads.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:659)
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:63)
+	at java.base/java.lang.Thread.run(Thread.java:1623)
+Caused by: java.lang.IllegalArgumentException: When allowCredentials is true, allowedOrigins cannot contain the special value "*" since that cannot be set on the "Access-Control-Allow-Origin" response header. To allow credentials to a set of origins, list them explicitly or consider using "allowedOriginPatterns" instead.
+	at org.springframework.web.cors.CorsConfiguration.validateAllowCredentials(CorsConfiguration.java:572)
+	at org.springframework.web.servlet.handler.AbstractHandlerMapping.getHandler(AbstractHandlerMapping.java:542)
+	at org.springframework.web.servlet.DispatcherServlet.getHandler(DispatcherServlet.java:1283)
+	at org.springframework.web.servlet.DispatcherServlet.doDispatch(DispatcherServlet.java:1065)
+	at org.springframework.web.servlet.DispatcherServlet.doService(DispatcherServlet.java:979)
+	at org.springframework.web.servlet.FrameworkServlet.processRequest(FrameworkServlet.java:1014)
+	... 29 common frames omitted
+2024-04-03 22:22:50.342 [main] INFO  com.example.myapp.MyAppApplication - Starting MyAppApplication using Java 20 with PID 13688 (C:\Users\Korisnik\Desktop\my-app\target\classes started by Korisnik in C:\Users\Korisnik\Desktop\my-app)
+2024-04-03 22:22:50.346 [main] INFO  com.example.myapp.MyAppApplication - No active profile set, falling back to 1 default profile: "default"
+2024-04-03 22:22:53.466 [main] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat initialized with port 8080 (http)
+2024-04-03 22:22:53.489 [main] INFO  o.a.catalina.core.StandardService - Starting service [Tomcat]
+2024-04-03 22:22:53.490 [main] INFO  o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/10.1.19]
+2024-04-03 22:22:53.573 [main] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2024-04-03 22:22:53.574 [main] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 3134 ms
+2024-04-03 22:22:54.016 [main] INFO  c.e.m.controller.ProductController - HttpURLConnection with resourse https://api.predic8.de/shop/v2/products/ created.
+2024-04-03 22:22:54.587 [main] INFO  c.e.m.controller.ProductController - HttpURLConnection with resourse https://api.predic8.de/shop/v2/products/1 created.
+2024-04-03 22:22:54.662 [main] INFO  c.e.m.controller.ProductController - HttpURLConnection with resourse https://api.predic8.de/shop/v2/vendors/1 created.
+2024-04-03 22:22:54.740 [main] INFO  c.e.m.controller.ProductController - HttpURLConnection with resourse https://api.predic8.de/shop/v2/products/2 created.
+2024-04-03 22:22:54.822 [main] INFO  c.e.m.controller.ProductController - HttpURLConnection with resourse https://api.predic8.de/shop/v2/vendors/2 created.
+2024-04-03 22:22:54.898 [main] INFO  c.e.m.controller.ProductController - HttpURLConnection with resourse https://api.predic8.de/shop/v2/products/3 created.
+2024-04-03 22:22:54.960 [main] INFO  c.e.m.controller.ProductController - HttpURLConnection with resourse https://api.predic8.de/shop/v2/vendors/2 created.
+2024-04-03 22:22:55.023 [main] INFO  c.e.m.controller.ProductController - HttpURLConnection with resourse https://api.predic8.de/shop/v2/products/4 created.
+2024-04-03 22:22:55.095 [main] INFO  c.e.m.controller.ProductController - HttpURLConnection with resourse https://api.predic8.de/shop/v2/vendors/3 created.
+2024-04-03 22:22:55.167 [main] INFO  c.e.m.controller.ProductController - HttpURLConnection with resourse https://api.predic8.de/shop/v2/products/5 created.
+2024-04-03 22:22:55.226 [main] INFO  c.e.m.controller.ProductController - HttpURLConnection with resourse https://api.predic8.de/shop/v2/vendors/1 created.
+2024-04-03 22:22:55.290 [main] INFO  c.e.m.controller.ProductController - HttpURLConnection with resourse https://api.predic8.de/shop/v2/products/6 created.
+2024-04-03 22:22:55.355 [main] INFO  c.e.m.controller.ProductController - HttpURLConnection with resourse https://api.predic8.de/shop/v2/vendors/3 created.
+2024-04-03 22:22:55.434 [main] INFO  c.e.m.controller.ProductController - HttpURLConnection with resourse https://api.predic8.de/shop/v2/products/7 created.
+2024-04-03 22:22:55.511 [main] INFO  c.e.m.controller.ProductController - HttpURLConnection with resourse https://api.predic8.de/shop/v2/vendors/1 created.
+2024-04-03 22:22:55.600 [main] INFO  c.e.m.controller.ProductController - HttpURLConnection with resourse https://api.predic8.de/shop/v2/products/8 created.
+2024-04-03 22:22:55.660 [main] INFO  c.e.m.controller.ProductController - HttpURLConnection with resourse https://api.predic8.de/shop/v2/vendors/2 created.
+2024-04-03 22:22:55.732 [main] INFO  c.e.m.controller.ProductController - HttpURLConnection with resourse https://api.predic8.de/shop/v2/products/9 created.
+2024-04-03 22:22:55.808 [main] INFO  c.e.m.controller.ProductController - HttpURLConnection with resourse https://api.predic8.de/shop/v2/vendors/1 created.
+2024-04-03 22:22:55.869 [main] INFO  c.e.m.controller.ProductController - HttpURLConnection with resourse https://api.predic8.de/shop/v2/products/10 created.
+2024-04-03 22:22:55.932 [main] INFO  c.e.m.controller.ProductController - HttpURLConnection with resourse https://api.predic8.de/shop/v2/vendors/3 created.
+2024-04-03 22:22:56.565 [main] INFO  o.s.b.a.e.web.EndpointLinksResolver - Exposing 2 endpoint(s) beneath base path '/actuator'
+2024-04-03 22:22:56.637 [main] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat started on port 8080 (http) with context path ''
+2024-04-03 22:22:56.658 [main] INFO  com.example.myapp.MyAppApplication - Started MyAppApplication in 7.641 seconds (process running for 8.338)
+2024-04-03 22:23:04.847 [http-nio-8080-exec-2] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2024-04-03 22:23:04.848 [http-nio-8080-exec-2] INFO  o.s.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+2024-04-03 22:23:04.849 [http-nio-8080-exec-2] INFO  o.s.web.servlet.DispatcherServlet - Completed initialization in 1 ms
+2024-04-03 22:30:38.462 [main] INFO  com.example.myapp.MyAppApplication - Starting MyAppApplication using Java 20 with PID 10916 (C:\Users\Korisnik\Desktop\TestProject\TestProject-BE\target\classes started by Korisnik in C:\Users\Korisnik\Desktop\TestProject\TestProject-BE)
+2024-04-03 22:30:38.467 [main] INFO  com.example.myapp.MyAppApplication - No active profile set, falling back to 1 default profile: "default"
+2024-04-03 22:30:44.645 [main] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat initialized with port 8080 (http)
+2024-04-03 22:30:44.683 [main] INFO  o.a.catalina.core.StandardService - Starting service [Tomcat]
+2024-04-03 22:30:44.684 [main] INFO  o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/10.1.19]
+2024-04-03 22:30:44.839 [main] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2024-04-03 22:30:44.840 [main] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 6142 ms
+2024-04-03 22:30:46.912 [main] INFO  c.e.m.controller.ProductController - HttpURLConnection with resourse https://api.predic8.de/shop/v2/products/ created.
+2024-04-03 22:30:47.721 [main] INFO  c.e.m.controller.ProductController - HttpURLConnection with resourse https://api.predic8.de/shop/v2/products/1 created.
+2024-04-03 22:30:47.794 [main] INFO  c.e.m.controller.ProductController - HttpURLConnection with resourse https://api.predic8.de/shop/v2/vendors/1 created.
+2024-04-03 22:30:47.885 [main] INFO  c.e.m.controller.ProductController - HttpURLConnection with resourse https://api.predic8.de/shop/v2/products/2 created.
+2024-04-03 22:30:47.956 [main] INFO  c.e.m.controller.ProductController - HttpURLConnection with resourse https://api.predic8.de/shop/v2/vendors/2 created.
+2024-04-03 22:30:48.028 [main] INFO  c.e.m.controller.ProductController - HttpURLConnection with resourse https://api.predic8.de/shop/v2/products/3 created.
+2024-04-03 22:30:48.090 [main] INFO  c.e.m.controller.ProductController - HttpURLConnection with resourse https://api.predic8.de/shop/v2/vendors/2 created.
+2024-04-03 22:30:48.168 [main] INFO  c.e.m.controller.ProductController - HttpURLConnection with resourse https://api.predic8.de/shop/v2/products/4 created.
+2024-04-03 22:30:48.248 [main] INFO  c.e.m.controller.ProductController - HttpURLConnection with resourse https://api.predic8.de/shop/v2/vendors/3 created.
+2024-04-03 22:30:48.334 [main] INFO  c.e.m.controller.ProductController - HttpURLConnection with resourse https://api.predic8.de/shop/v2/products/5 created.
+2024-04-03 22:30:48.401 [main] INFO  c.e.m.controller.ProductController - HttpURLConnection with resourse https://api.predic8.de/shop/v2/vendors/1 created.
+2024-04-03 22:30:48.465 [main] INFO  c.e.m.controller.ProductController - HttpURLConnection with resourse https://api.predic8.de/shop/v2/products/6 created.
+2024-04-03 22:30:48.522 [main] INFO  c.e.m.controller.ProductController - HttpURLConnection with resourse https://api.predic8.de/shop/v2/vendors/3 created.
+2024-04-03 22:30:48.578 [main] INFO  c.e.m.controller.ProductController - HttpURLConnection with resourse https://api.predic8.de/shop/v2/products/7 created.
+2024-04-03 22:30:48.641 [main] INFO  c.e.m.controller.ProductController - HttpURLConnection with resourse https://api.predic8.de/shop/v2/vendors/1 created.
+2024-04-03 22:30:48.712 [main] INFO  c.e.m.controller.ProductController - HttpURLConnection with resourse https://api.predic8.de/shop/v2/products/8 created.
+2024-04-03 22:30:48.781 [main] INFO  c.e.m.controller.ProductController - HttpURLConnection with resourse https://api.predic8.de/shop/v2/vendors/2 created.
+2024-04-03 22:30:48.836 [main] INFO  c.e.m.controller.ProductController - HttpURLConnection with resourse https://api.predic8.de/shop/v2/products/9 created.
+2024-04-03 22:30:48.897 [main] INFO  c.e.m.controller.ProductController - HttpURLConnection with resourse https://api.predic8.de/shop/v2/vendors/1 created.
+2024-04-03 22:30:48.975 [main] INFO  c.e.m.controller.ProductController - HttpURLConnection with resourse https://api.predic8.de/shop/v2/products/10 created.
+2024-04-03 22:30:49.050 [main] INFO  c.e.m.controller.ProductController - HttpURLConnection with resourse https://api.predic8.de/shop/v2/vendors/3 created.
+2024-04-03 22:30:50.308 [main] INFO  o.s.b.a.e.web.EndpointLinksResolver - Exposing 2 endpoint(s) beneath base path '/actuator'
+2024-04-03 22:30:52.365 [main] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat started on port 8080 (http) with context path ''
+2024-04-03 22:30:52.388 [main] INFO  com.example.myapp.MyAppApplication - Started MyAppApplication in 16.144 seconds (process running for 17.313)
+2024-04-03 22:31:42.329 [http-nio-8080-exec-1] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2024-04-03 22:31:42.416 [http-nio-8080-exec-1] INFO  o.s.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+2024-04-03 22:31:42.425 [http-nio-8080-exec-1] INFO  o.s.web.servlet.DispatcherServlet - Completed initialization in 7 ms

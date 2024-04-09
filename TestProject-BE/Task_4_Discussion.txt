@@ -1,0 +1,22 @@
+Ideas for code integration on Git:
+* Using branching strategy:
+    Branching strategy enables organized parallel development, prevents conflicts between changes,
+    and facilitates management of the development workflow.
+* Code Reviews:
+    They provide additional security and code quality through feedback from peers, helping to identify errors,
+    improve code quality, and ensure consistency in development.
+* Git Hooks:
+    They automate various operations such as code checking, running tests, or sending notifications,
+    improving efficiency and consistency in the development process.
+
+Continuous Integration (CI):
+* Automate tests:
+    Integrate automated unit tests, integration tests, and end-to-end tests
+    into the CI pipeline to validate code changes automatically.
+* Enable code quality checks:
+    Configure static code analysis tools (e.g., SonarQube) to analyze code quality metrics
+    and enforce coding standards as part of the CI process.
+
+Continuous Delivery (CD):
+* Implement small releases to gradually introduce new features or updates
+    to a subset of users before deploying to the entire user base.
